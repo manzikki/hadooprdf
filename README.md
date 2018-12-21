@@ -1,0 +1,2 @@
+# hadooprdf
+Distributed rdf query
