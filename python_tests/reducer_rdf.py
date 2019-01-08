@@ -1,20 +1,29 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
 """A more advanced Reducer, using Python iterators and generators."""
 
-from itertools import groupby
-from operator import itemgetter
 import sys
 import rdflib
 
-def read_mapper_output(file, separator='\t'):
-    for line in file:
-        yield line.rstrip().split(separator, 1)
-
 def main(separator='\t'):
     # input comes from STDIN (standard input)
-    data = read_mapper_output(sys.stdin, separator=separator)
-    for row in data:
-        print (row)
+    
+    g = rdflib.Graph()
+    
+    #this works
+    lines=sys.stdin.readlines()
+    allLines=''.join(lines)
+    g.parse(data=allLines,format='nt')
+    
+   #this does not work 
+   # g.load(sys.stdin,format='nt')
+   
+    q = g.query('CONSTRUCT WHERE {?country aa:Continent ?continent}',
+                initNs = { 'aa' : 'http://www.example.org/'})
+    
+    qs=q.serialize(destination=None,format='nt').decode()
+    print(qs)
+    # to read results: hadoop fs -cat trade-output/*  
     
 if __name__ == "__main__":
     main()
