@@ -1,5 +1,5 @@
 <?xml version='1.0'?>
-<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:a='http://www.example.org/'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:a='http://www.example.org/' xml:base='http://www.example.org/'>
     <Description about="I0" YEAR="2000" ORIGIN="AGO" SITC="5722" EXPORT_VAL="362.0" IMPORT_VAL="147648.0" EXPORT_RCA="0.000662487" IMPORT_RCA="1.12053" />
 <Description about="I1" YEAR="2000" ORIGIN="AGO" SITC="6251" EXPORT_VAL="0.0" IMPORT_VAL="2148941.0" EXPORT_RCA="0.0" IMPORT_RCA="0.637642" />
 <Description about="I2" YEAR="2000" ORIGIN="AGO" SITC="6282" EXPORT_VAL="7300.0" IMPORT_VAL="371445.0" EXPORT_RCA="0.00294266" IMPORT_RCA="0.620926" />

@@ -19,8 +19,14 @@ def main(separator='\t'):
         g.load("temp.rdf")
             
     g.load(sys.stdin)
-    q = g.query('CONSTRUCT WHERE {?country aa:Continent ?continent}',
+    #q = g.query('CONSTRUCT WHERE {?country aa:Continent ?continent}', #. ?continent aa:Continent "Europe"}',
+    #            initNs = { 'aa' : 'http://www.example.org/'})
+    
+    #countries in Africa
+    #q = g.query('CONSTRUCT {?cn aa:Continent "Africa"} WHERE {?country aa:Continent "Africa" . ?country aa:CountryName ?cn}', initNs = { 'aa' : 'http://www.example.org/'})
+    q = g.query('CONSTRUCT {?country aa:EXPORT_VAL ?export} WHERE {?country aa:Continent "Africa" . ?country aa:ISO3digit ?iso . ?e_id aa:ORIGIN ?iso . ?e_id aa:EXPORT_VAL ?export }',
                 initNs = { 'aa' : 'http://www.example.org/'})
+
     #must be a format in which the whole triple is on one line
     qs=q.serialize(destination=None,format='nt').decode()
     #signal.signal(signal.SIGPIPE, signal.SIG_DFL) #helps broken pipes

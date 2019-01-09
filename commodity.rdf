@@ -1,5 +1,5 @@
 <?xml version='1.0'?>
-<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:a='http://www.example.org/'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:a='http://www.example.org/' xml:base='http://www.example.org/'>
     <Description about="I0" Commodity_Code="0" Commodity_description="Food and live animals chiefly for food" />
 <Description about="I1" Commodity_Code="1" Commodity_description="Meat and preparations" />
 <Description about="I2" Commodity_Code="2" Commodity_description="Crude materials inedible except fuels" />
