@@ -24,7 +24,7 @@ def main(separator='\t'):
     #q = g.query('SELECT ?a ?b WHERE {?a aa:EXPORT_VAL ?b}',
     #            initNs = { 'aa' : 'http://www.example.org/'})
     
-    q = g.query('SELECT ?iso (SUM(xsd:decimal(?export)) AS ?exp) WHERE {?iso aa:EXPORT_VAL ?export .}', initNs = { 'aa' : 'http://www.example.org/'})
+    q = g.query('SELECT ?iso (SUM(xsd:decimal(?export)) AS ?exp) WHERE {?iso aa:EXPORT_VAL ?export .} GROUP BY ?iso', initNs = { 'aa' : 'http://www.example.org/'})
     
     #qs=q.serialize(destination=None,format='nt').decode()
     #qs=q.serialize(destination=None,format='xml').decode()
