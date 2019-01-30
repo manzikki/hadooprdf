@@ -1,0 +1,1045 @@
+<?xml version='1.0'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:a='http://www.example.org/'>
+    <Description about="I0" Commodity_Code="0" Commodity_description="Food and live animals chiefly for food" />
+<Description about="I1" Commodity_Code="1" Commodity_description="Meat and preparations" />
+<Description about="I2" Commodity_Code="2" Commodity_description="Crude materials inedible except fuels" />
+<Description about="I3" Commodity_Code="3" Commodity_description="Mineral fuels lubricants and related materials" />
+<Description about="I4" Commodity_Code="4" Commodity_description="Animal and vegetable oils fats and waxes" />
+<Description about="I5" Commodity_Code="5" Commodity_description="Chemicals and related products nes" />
+<Description about="I6" Commodity_Code="6" Commodity_description="Manufactured goods classified chiefly by materials" />
+<Description about="I7" Commodity_Code="7" Commodity_description="Machinery and transport equipment" />
+<Description about="I8" Commodity_Code="8" Commodity_description="Miscellaneous manufactured articles" />
+<Description about="I9" Commodity_Code="9" Commodity_description="Commodities and transactions not classified elsewhere in the SITC" />
+<Description about="I10" Commodity_Code="11" Commodity_description="Animals of the bovine species (including buffaloes) live" />
+<Description about="I11" Commodity_Code="12" Commodity_description="Sheep and goats live" />
+<Description about="I12" Commodity_Code="13" Commodity_description="Swine live" />
+<Description about="I13" Commodity_Code="14" Commodity_description="Poultry live" />
+<Description about="I14" Commodity_Code="15" Commodity_description="Equine species live" />
+<Description about="I15" Commodity_Code="19" Commodity_description="Live animals of a kind mainly used for human food nes" />
+<Description about="I16" Commodity_Code="21" Commodity_description="Hides skins and furskins raw" />
+<Description about="I17" Commodity_Code="22" Commodity_description="Oil seeds and oleaginous fruit" />
+<Description about="I18" Commodity_Code="23" Commodity_description="Butter" />
+<Description about="I19" Commodity_Code="24" Commodity_description="Cheese and curd" />
+<Description about="I20" Commodity_Code="25" Commodity_description="Eggs birds' and egg yolks fresh dried or preserved" />
+<Description about="I21" Commodity_Code="26" Commodity_description="Textile fibres (not wool tops) and their wastes (not in yarn)" />
+<Description about="I22" Commodity_Code="27" Commodity_description="Crude fertilizer and crude minerals" />
+<Description about="I23" Commodity_Code="28" Commodity_description="Metalliferous ores and metal scrap" />
+<Description about="I24" Commodity_Code="29" Commodity_description="Crude animal and vegetable materials nes" />
+<Description about="I25" Commodity_Code="32" Commodity_description="Coal coke and briquettes" />
+<Description about="I26" Commodity_Code="33" Commodity_description="Petroleum petroleum products and related materials" />
+<Description about="I27" Commodity_Code="34" Commodity_description="Fish fresh chilled or frozen" />
+<Description about="I28" Commodity_Code="35" Commodity_description="Fish dried salted or in brine; smoked fish" />
+<Description about="I29" Commodity_Code="36" Commodity_description="Crustaceans and molluscs fresh chilled frozen salted etc" />
+<Description about="I30" Commodity_Code="37" Commodity_description="Fish crustaceans and molluscs prepared or preserved nes" />
+<Description about="I31" Commodity_Code="41" Commodity_description="Wheat and meslin unmilled" />
+<Description about="I32" Commodity_Code="42" Commodity_description="Rice" />
+<Description about="I33" Commodity_Code="43" Commodity_description="Barley unmilled" />
+<Description about="I34" Commodity_Code="44" Commodity_description="Maize unmilled" />
+<Description about="I35" Commodity_Code="45" Commodity_description="Cereals unmilled" />
+<Description about="I36" Commodity_Code="46" Commodity_description="Meal and flour of wheat and flour of meslin" />
+<Description about="I37" Commodity_Code="47" Commodity_description="Other cereal meals and flour" />
+<Description about="I38" Commodity_Code="48" Commodity_description="Cereal flour or starch preparations of fruits or vegetables" />
+<Description about="I39" Commodity_Code="51" Commodity_description="Organic chemicals" />
+<Description about="I40" Commodity_Code="52" Commodity_description="Inorganic chemicals" />
+<Description about="I41" Commodity_Code="53" Commodity_description="Dyeing tanning and colouring materials" />
+<Description about="I42" Commodity_Code="54" Commodity_description="Vegetables fresh or simply preserved; roots and tubers nes" />
+<Description about="I43" Commodity_Code="55" Commodity_description="Oils and perfume materials; toilet and cleansing preparations" />
+<Description about="I44" Commodity_Code="56" Commodity_description="Vegetables roots and tubers prepared or preserved nes" />
+<Description about="I45" Commodity_Code="57" Commodity_description="Fruit and nuts fresh dried" />
+<Description about="I46" Commodity_Code="58" Commodity_description="Fruit preserved and fruits preparations" />
+<Description about="I47" Commodity_Code="59" Commodity_description="Chemical materials and products nes" />
+<Description about="I48" Commodity_Code="61" Commodity_description="Sugar and honey" />
+<Description about="I49" Commodity_Code="62" Commodity_description="Sugar confectionery and preparations non-chocolate" />
+<Description about="I50" Commodity_Code="63" Commodity_description="Cork and wood cork manufactures" />
+<Description about="I51" Commodity_Code="64" Commodity_description="Paper paperboard and articles of pulp of paper or of paperboard" />
+<Description about="I52" Commodity_Code="65" Commodity_description="Textile yarn fabrics made-up articles nes and related products" />
+<Description about="I53" Commodity_Code="66" Commodity_description="Non-metallic mineral manufactures nes" />
+<Description about="I54" Commodity_Code="67" Commodity_description="Iron and steel" />
+<Description about="I55" Commodity_Code="68" Commodity_description="Non-ferrous metals" />
+<Description about="I56" Commodity_Code="69" Commodity_description="Manufactures of metals nes" />
+<Description about="I57" Commodity_Code="71" Commodity_description="Coffee and coffee substitutes" />
+<Description about="I58" Commodity_Code="72" Commodity_description="Cocoa" />
+<Description about="I59" Commodity_Code="73" Commodity_description="Chocolate and other preparations containing cocoa nes" />
+<Description about="I60" Commodity_Code="74" Commodity_description="Tea and mate" />
+<Description about="I61" Commodity_Code="75" Commodity_description="Spices" />
+<Description about="I62" Commodity_Code="76" Commodity_description="Telecommunications sound recording and reproducing equipment" />
+<Description about="I63" Commodity_Code="77" Commodity_description="Electric machinery apparatus and appliances nes and parts nes" />
+<Description about="I64" Commodity_Code="78" Commodity_description="Road vehicles" />
+<Description about="I65" Commodity_Code="79" Commodity_description="Other transport equipment" />
+<Description about="I66" Commodity_Code="81" Commodity_description="Feeding stuff for animals (not including unmilled cereals)" />
+<Description about="I67" Commodity_Code="82" Commodity_description="Furniture and parts thereof" />
+<Description about="I68" Commodity_Code="83" Commodity_description="Travel goods handbags and similar containers" />
+<Description about="I69" Commodity_Code="84" Commodity_description="Articles of apparel and clothing accessories" />
+<Description about="I70" Commodity_Code="85" Commodity_description="Footwear" />
+<Description about="I71" Commodity_Code="87" Commodity_description="Professional scientific controlling instruments apparatus nes" />
+<Description about="I72" Commodity_Code="88" Commodity_description="Photographic equipment and supplies optical goods; watches etc" />
+<Description about="I73" Commodity_Code="89" Commodity_description="Miscellaneous manufactured articles nes" />
+<Description about="I74" Commodity_Code="91" Commodity_description="Margarine and shortening" />
+<Description about="I75" Commodity_Code="93" Commodity_description="Special transactions commodity not classified according to class" />
+<Description about="I76" Commodity_Code="94" Commodity_description="Animals live nes (including zoo animals pets insects etc)" />
+<Description about="I77" Commodity_Code="95" Commodity_description="Armoured fighting vehicles war firearms ammunition parts nes" />
+<Description about="I78" Commodity_Code="96" Commodity_description="Coin (other than gold coin) not being legal tender" />
+<Description about="I79" Commodity_Code="97" Commodity_description="Gold non-monetary (excluding gold ores and concentrates)" />
+<Description about="I80" Commodity_Code="98" Commodity_description="Edible products and preparations nes" />
+<Description about="I81" Commodity_Code="111" Commodity_description="Bovine meat fresh chilled or frozen" />
+<Description about="I82" Commodity_Code="112" Commodity_description="Meat of sheep and goats fresh chilled or frozen" />
+<Description about="I83" Commodity_Code="113" Commodity_description="Pig meat fresh chilled or frozen" />
+<Description about="I84" Commodity_Code="114" Commodity_description="Poultry dead and edible offal fresh chilled or frozen" />
+<Description about="I85" Commodity_Code="115" Commodity_description="Meat of horses asses mules and hinnies fresh chilled or frozen" />
+<Description about="I86" Commodity_Code="116" Commodity_description="Edible offal of headings 0011-5 and 0015 fresh chilled or frozen" />
+<Description about="I87" Commodity_Code="118" Commodity_description="Other fresh chilled or frozen meat or edible meat offal" />
+<Description about="I88" Commodity_Code="121" Commodity_description="Bacon ham other dried salted or smoked meat of domestic swine" />
+<Description about="I89" Commodity_Code="122" Commodity_description="Tobacco manufactured" />
+<Description about="I90" Commodity_Code="129" Commodity_description="Meat and edible meat offal nes in brine dried salted or smoked" />
+<Description about="I91" Commodity_Code="141" Commodity_description="Meat extracts and juices; fish extracts" />
+<Description about="I92" Commodity_Code="142" Commodity_description="Sausages and the like of meat meat offal or animal blood" />
+<Description about="I93" Commodity_Code="149" Commodity_description="Other prepared or preserved meat or meat offal" />
+<Description about="I94" Commodity_Code="211" Commodity_description="Hides and skins excluding furs raw" />
+<Description about="I95" Commodity_Code="212" Commodity_description="Furskins raw" />
+<Description about="I96" Commodity_Code="222" Commodity_description="Seeds and oleaginous fruit whole or broken for 'soft' fixed oil" />
+<Description about="I97" Commodity_Code="223" Commodity_description="Milk and cream fresh not concentrated or sweetened" />
+<Description about="I98" Commodity_Code="224" Commodity_description="Milk and cream preserved concentrated or sweetened" />
+<Description about="I99" Commodity_Code="230" Commodity_description="Butter" />
+<Description about="I100" Commodity_Code="232" Commodity_description="Natural rubber latex; rubber and gums" />
+<Description about="I101" Commodity_Code="233" Commodity_description="Synthetic rubber latex etc; waste scrap of unhardened rubber" />
+<Description about="I102" Commodity_Code="240" Commodity_description="Cheese and curd" />
+<Description about="I103" Commodity_Code="244" Commodity_description="Cork natural raw and waste" />
+<Description about="I104" Commodity_Code="245" Commodity_description="Fuel wood and wood charcoal" />
+<Description about="I105" Commodity_Code="246" Commodity_description="Pulpwood (including chips and wood waste)" />
+<Description about="I106" Commodity_Code="247" Commodity_description="Other wood in the rough or roughly squared" />
+<Description about="I107" Commodity_Code="248" Commodity_description="Wood simply worked and railway sleepers of wood" />
+<Description about="I108" Commodity_Code="251" Commodity_description="Eggs birds' and egg yolks fresh dried or preserved in shell" />
+<Description about="I109" Commodity_Code="252" Commodity_description="Eggs birds' egg yolks fresh dried or preserved not in shell" />
+<Description about="I110" Commodity_Code="261" Commodity_description="Silk" />
+<Description about="I111" Commodity_Code="263" Commodity_description="Cotton" />
+<Description about="I112" Commodity_Code="264" Commodity_description="Jute other textile bast fibres nes raw processed but not spun" />
+<Description about="I113" Commodity_Code="265" Commodity_description="Vegetable textile fibres excluding cotton jute and waste" />
+<Description about="I114" Commodity_Code="266" Commodity_description="Synthetic fibres suitable for spinning" />
+<Description about="I115" Commodity_Code="267" Commodity_description="Other man-made fibres suitable for spinning and waste" />
+<Description about="I116" Commodity_Code="268" Commodity_description="Wool and other animal hair (excluding tops)" />
+<Description about="I117" Commodity_Code="269" Commodity_description="Old clothing and other old textile articles; rags" />
+<Description about="I118" Commodity_Code="271" Commodity_description="Fertilizers crude" />
+<Description about="I119" Commodity_Code="273" Commodity_description="Stone sand and gravel" />
+<Description about="I120" Commodity_Code="274" Commodity_description="Sulphur and unroasted iron pyrites" />
+<Description about="I121" Commodity_Code="277" Commodity_description="Natural abrasives nes" />
+<Description about="I122" Commodity_Code="278" Commodity_description="Other crude minerals" />
+<Description about="I123" Commodity_Code="281" Commodity_description="Iron ore and concentrates" />
+<Description about="I124" Commodity_Code="282" Commodity_description="Waste and scrap metal of iron or steel" />
+<Description about="I125" Commodity_Code="286" Commodity_description="Ores and concentrates of uranium and thorium" />
+<Description about="I126" Commodity_Code="287" Commodity_description="Ores and concentrates of base metals nes" />
+<Description about="I127" Commodity_Code="288" Commodity_description="Non-ferrous base metal waste and scrap nes" />
+<Description about="I128" Commodity_Code="289" Commodity_description="Ores and concentrates of precious metals waste scrap" />
+<Description about="I129" Commodity_Code="291" Commodity_description="Crude animal materials nes" />
+<Description about="I130" Commodity_Code="292" Commodity_description="Crude vegetable materials nes" />
+<Description about="I131" Commodity_Code="322" Commodity_description="Coal lignite and peat" />
+<Description about="I132" Commodity_Code="323" Commodity_description="Briquettes; coke and semi-coke; lignite or peat; retort carbon" />
+<Description about="I133" Commodity_Code="333" Commodity_description="Crude petroleum and oils obtained from bituminous minerals" />
+<Description about="I134" Commodity_Code="334" Commodity_description="Petroleum products refined" />
+<Description about="I135" Commodity_Code="335" Commodity_description="Residual petroleum products nes and related materials" />
+<Description about="I136" Commodity_Code="341" Commodity_description="Fish fresh or chilled excluding fillet" />
+<Description about="I137" Commodity_Code="342" Commodity_description="Fish frozen excluding fillets" />
+<Description about="I138" Commodity_Code="343" Commodity_description="Fish fillets fresh or chilled" />
+<Description about="I139" Commodity_Code="344" Commodity_description="Fish fillets frozen" />
+<Description about="I140" Commodity_Code="350" Commodity_description="Fish dried salted or in brine; smoked fish" />
+<Description about="I141" Commodity_Code="351" Commodity_description="Electric current" />
+<Description about="I142" Commodity_Code="360" Commodity_description="Crustaceans and molluscs fresh chilled frozen salted etc" />
+<Description about="I143" Commodity_Code="371" Commodity_description="Fish prepared or preserved nes" />
+<Description about="I144" Commodity_Code="372" Commodity_description="Crustaceans and molluscs prepared or prepared nes" />
+<Description about="I145" Commodity_Code="411" Commodity_description="Durum wheat unmilled" />
+<Description about="I146" Commodity_Code="412" Commodity_description="Other wheat and meslin unmilled" />
+<Description about="I147" Commodity_Code="421" Commodity_description="Rice in the husk or husked but not farther prepared" />
+<Description about="I148" Commodity_Code="422" Commodity_description="Rice semi-milled or wholly milled" />
+<Description about="I149" Commodity_Code="423" Commodity_description="Fixed vegetable oils soft crude refined or purified" />
+<Description about="I150" Commodity_Code="424" Commodity_description="Other fixed vegetable oils fluid or solid crude refined" />
+<Description about="I151" Commodity_Code="430" Commodity_description="Barley unmilled" />
+<Description about="I152" Commodity_Code="431" Commodity_description="Animal and vegetable oils and fats processed and waxes" />
+<Description about="I153" Commodity_Code="440" Commodity_description="Maize unmilled" />
+<Description about="I154" Commodity_Code="451" Commodity_description="Rye unmilled" />
+<Description about="I155" Commodity_Code="452" Commodity_description="Oats unmilled" />
+<Description about="I156" Commodity_Code="459" Commodity_description="Buckwheat millet etc and other cereals unmilled nes" />
+<Description about="I157" Commodity_Code="460" Commodity_description="Meal and flour of wheat and flour of meslin" />
+<Description about="I158" Commodity_Code="470" Commodity_description="Other cereal meals and flour" />
+<Description about="I159" Commodity_Code="481" Commodity_description="Cereal grains worked or prepared not elsewhere specified" />
+<Description about="I160" Commodity_Code="482" Commodity_description="Malt roasted or not including flour" />
+<Description about="I161" Commodity_Code="483" Commodity_description="Macaroni spaghetti and similar products" />
+<Description about="I162" Commodity_Code="484" Commodity_description="Bakery products" />
+<Description about="I163" Commodity_Code="488" Commodity_description="Malt extract; cereals preparations with less 50% of cocoa" />
+<Description about="I164" Commodity_Code="511" Commodity_description="Hydrocarbons nes and derivatives" />
+<Description about="I165" Commodity_Code="512" Commodity_description="Alcohols phenols etc and their derivatives" />
+<Description about="I166" Commodity_Code="513" Commodity_description="Carboxylic acids and their derivatives" />
+<Description about="I167" Commodity_Code="514" Commodity_description="Nitrogen-function compounds" />
+<Description about="I168" Commodity_Code="515" Commodity_description="Organo-inorganic and heterocyclic compounds" />
+<Description about="I169" Commodity_Code="516" Commodity_description="Other organic chemicals" />
+<Description about="I170" Commodity_Code="522" Commodity_description="Inorganic chemical elements oxides and halogen salts" />
+<Description about="I171" Commodity_Code="523" Commodity_description="Other inorganic chemicals; compounds of precious metals" />
+<Description about="I172" Commodity_Code="524" Commodity_description="Radioactive and associated material" />
+<Description about="I173" Commodity_Code="531" Commodity_description="Synthetic dye natural indigo lakes" />
+<Description about="I174" Commodity_Code="532" Commodity_description="Dyeing and tanning extracts and synthetic tanning materials" />
+<Description about="I175" Commodity_Code="533" Commodity_description="Pigments paints varnishes and related materials" />
+<Description about="I176" Commodity_Code="541" Commodity_description="Potatoes fresh or chilled excluding sweet potatoes" />
+<Description about="I177" Commodity_Code="542" Commodity_description="Beans peas other leguminous vegetables dried shelled" />
+<Description about="I178" Commodity_Code="544" Commodity_description="Tomatoes fresh or chilled" />
+<Description about="I179" Commodity_Code="545" Commodity_description="Other fresh or chilled vegetables" />
+<Description about="I180" Commodity_Code="546" Commodity_description="Vegetables frozen or in temporary preservative" />
+<Description about="I181" Commodity_Code="548" Commodity_description="Vegetable products roots and tubers nes fresh dried" />
+<Description about="I182" Commodity_Code="551" Commodity_description="Essential oils perfume and flavour materials" />
+<Description about="I183" Commodity_Code="553" Commodity_description="Perfumery cosmetics toilet preparations etc" />
+<Description about="I184" Commodity_Code="554" Commodity_description="Soap cleansing and polishing preparations" />
+<Description about="I185" Commodity_Code="561" Commodity_description="Vegetables (excluding leguminous) dried evaporated etc" />
+<Description about="I186" Commodity_Code="562" Commodity_description="Fertilizers manufactured" />
+<Description about="I187" Commodity_Code="564" Commodity_description="Flour meals and flakes of potatoes fruit and vegetables nes" />
+<Description about="I188" Commodity_Code="565" Commodity_description="Vegetables prepared or preserved nes" />
+<Description about="I189" Commodity_Code="571" Commodity_description="Oranges mandarins etc fresh or dried" />
+<Description about="I190" Commodity_Code="572" Commodity_description="Other citrus fruits fresh or dried" />
+<Description about="I191" Commodity_Code="573" Commodity_description="Banana plantain fresh or dried" />
+<Description about="I192" Commodity_Code="574" Commodity_description="Apples fresh" />
+<Description about="I193" Commodity_Code="575" Commodity_description="Grapes fresh or dried" />
+<Description about="I194" Commodity_Code="576" Commodity_description="Figs fresh or dried" />
+<Description about="I195" Commodity_Code="577" Commodity_description="Nuts edible fresh or dried" />
+<Description about="I196" Commodity_Code="579" Commodity_description="Fruit fresh or dried nes" />
+<Description about="I197" Commodity_Code="582" Commodity_description="Fruit fruit-peel and parts of plants preserved by sugar" />
+<Description about="I198" Commodity_Code="583" Commodity_description="Jams jellies marmalades etc as cooked preparations" />
+<Description about="I199" Commodity_Code="584" Commodity_description="Regenerated cellulose; derivatives of cellulose; vulcanized fibre" />
+<Description about="I200" Commodity_Code="585" Commodity_description="Fruit or vegetable juices" />
+<Description about="I201" Commodity_Code="586" Commodity_description="Fruit temporarily preserved" />
+<Description about="I202" Commodity_Code="589" Commodity_description="Fruit prepared or preserved nes" />
+<Description about="I203" Commodity_Code="591" Commodity_description="Pesticides disinfectants" />
+<Description about="I204" Commodity_Code="592" Commodity_description="Starches insulin and wheat gluten; albuminoidal substances; glues" />
+<Description about="I205" Commodity_Code="598" Commodity_description="Miscellaneous chemical products nes" />
+<Description about="I206" Commodity_Code="611" Commodity_description="Sugars beet and cane raw solid" />
+<Description about="I207" Commodity_Code="612" Commodity_description="Refined sugar etc" />
+<Description about="I208" Commodity_Code="613" Commodity_description="Furskins tanned or dressed; pieces of furskin tanned or dressed" />
+<Description about="I209" Commodity_Code="615" Commodity_description="Molasses" />
+<Description about="I210" Commodity_Code="616" Commodity_description="Natural honey" />
+<Description about="I211" Commodity_Code="619" Commodity_description="Sugars and syrups nes; artificial honey; caramel" />
+<Description about="I212" Commodity_Code="620" Commodity_description="Sugar confectionery and preparations non-chocolate" />
+<Description about="I213" Commodity_Code="621" Commodity_description="Materials of rubber" />
+<Description about="I214" Commodity_Code="625" Commodity_description="Rubber tires tire cases inner and flaps for wheels of all kinds" />
+<Description about="I215" Commodity_Code="628" Commodity_description="Articles of rubber nes" />
+<Description about="I216" Commodity_Code="633" Commodity_description="Cork manufactures" />
+<Description about="I217" Commodity_Code="634" Commodity_description="Veneers plywood improved wood and other wood worked nes" />
+<Description about="I218" Commodity_Code="635" Commodity_description="Wood manufactures nes" />
+<Description about="I219" Commodity_Code="641" Commodity_description="Paper and paperboard" />
+<Description about="I220" Commodity_Code="642" Commodity_description="Paper and paperboard precut and articles of paper or paperboard" />
+<Description about="I221" Commodity_Code="651" Commodity_description="Textile yarn" />
+<Description about="I222" Commodity_Code="652" Commodity_description="Cotton fabrics woven (not including narrow or special fabrics)" />
+<Description about="I223" Commodity_Code="653" Commodity_description="Fabrics woven of man-made fibres (not narrow or special fabrics)" />
+<Description about="I224" Commodity_Code="654" Commodity_description="Textile fabrics woven other than cotton or man-made fibres" />
+<Description about="I225" Commodity_Code="655" Commodity_description="Knitted or crocheted fabrics (including tubular etc fabrics)" />
+<Description about="I226" Commodity_Code="656" Commodity_description="Tulle lace embroidery ribbons trimmings and other small wares" />
+<Description about="I227" Commodity_Code="657" Commodity_description="Special textile fabrics and related products" />
+<Description about="I228" Commodity_Code="658" Commodity_description="Made-up articles wholly or chiefly of textile materials nes" />
+<Description about="I229" Commodity_Code="659" Commodity_description="Floor coverings etc" />
+<Description about="I230" Commodity_Code="661" Commodity_description="Lime cement and fabricated construction materials" />
+<Description about="I231" Commodity_Code="662" Commodity_description="Clay and refractory construction materials" />
+<Description about="I232" Commodity_Code="663" Commodity_description="Mineral manufactures nes" />
+<Description about="I233" Commodity_Code="664" Commodity_description="Glass" />
+<Description about="I234" Commodity_Code="665" Commodity_description="Glassware" />
+<Description about="I235" Commodity_Code="666" Commodity_description="Pottery" />
+<Description about="I236" Commodity_Code="667" Commodity_description="Pearl precious and semi-precious stones unworked or worked" />
+<Description about="I237" Commodity_Code="671" Commodity_description="Pig and sponge iron spiegeleisen etc and ferro-alloys" />
+<Description about="I238" Commodity_Code="672" Commodity_description="Ingots and other primary forms of iron or steel" />
+<Description about="I239" Commodity_Code="673" Commodity_description="Iron and steel bars rods shapes and sections" />
+<Description about="I240" Commodity_Code="674" Commodity_description="Universals plates and sheets of iron or steel" />
+<Description about="I241" Commodity_Code="675" Commodity_description="Hoop and strip of iron or steel hot-rolled or cold-rolled" />
+<Description about="I242" Commodity_Code="676" Commodity_description="Rails and railway track construction materials of iron or steel" />
+<Description about="I243" Commodity_Code="677" Commodity_description="Iron or steel wire (excluding wire rod) not insulated" />
+<Description about="I244" Commodity_Code="678" Commodity_description="Tube pipes and fittings of iron or steel" />
+<Description about="I245" Commodity_Code="679" Commodity_description="Iron steel casting forging and stamping in the rough state nes" />
+<Description about="I246" Commodity_Code="681" Commodity_description="Silver platinum and other metals of the platinum group" />
+<Description about="I247" Commodity_Code="682" Commodity_description="Copper" />
+<Description about="I248" Commodity_Code="683" Commodity_description="Nickel" />
+<Description about="I249" Commodity_Code="684" Commodity_description="Aluminium" />
+<Description about="I250" Commodity_Code="685" Commodity_description="Lead" />
+<Description about="I251" Commodity_Code="686" Commodity_description="Zinc" />
+<Description about="I252" Commodity_Code="687" Commodity_description="Tin" />
+<Description about="I253" Commodity_Code="688" Commodity_description="Uranium depleted in U235 thorium and alloys nes; waste and scrap" />
+<Description about="I254" Commodity_Code="689" Commodity_description="Miscellaneous non-ferrous base metals employed in metallurgy" />
+<Description about="I255" Commodity_Code="691" Commodity_description="Structures and parts nes of iron steel or aluminium" />
+<Description about="I256" Commodity_Code="692" Commodity_description="Metal containers for storage and transport" />
+<Description about="I257" Commodity_Code="693" Commodity_description="Wire products (excluding insulated electrical wire); fencing grills" />
+<Description about="I258" Commodity_Code="694" Commodity_description="Nails screws nuts bolts rivets etc of iron steel or copper" />
+<Description about="I259" Commodity_Code="695" Commodity_description="Tools for use in the hand or in machines" />
+<Description about="I260" Commodity_Code="696" Commodity_description="Cutlery" />
+<Description about="I261" Commodity_Code="697" Commodity_description="Household equipment of base metal nes" />
+<Description about="I262" Commodity_Code="699" Commodity_description="Manufactures of base metal nes" />
+<Description about="I263" Commodity_Code="711" Commodity_description="Coffee green roasted; coffee substitutes containing coffee" />
+<Description about="I264" Commodity_Code="712" Commodity_description="Coffee extracts essences or concentrates" />
+<Description about="I265" Commodity_Code="713" Commodity_description="Internal combustion piston engines and parts thereof nes" />
+<Description about="I266" Commodity_Code="714" Commodity_description="Engines and motors non-electric; parts nes; group 714 item 71888" />
+<Description about="I267" Commodity_Code="716" Commodity_description="Rotating electric plant and parts thereof nes" />
+<Description about="I268" Commodity_Code="718" Commodity_description="Other power generating machinery and parts thereof nes" />
+<Description about="I269" Commodity_Code="721" Commodity_description="Cocoa beans raw roasted" />
+<Description about="I270" Commodity_Code="722" Commodity_description="Cocoa powder unsweetened" />
+<Description about="I271" Commodity_Code="723" Commodity_description="Cocoa butter and paste" />
+<Description about="I272" Commodity_Code="724" Commodity_description="Textile and leather machinery and parts thereof nes" />
+<Description about="I273" Commodity_Code="725" Commodity_description="Paper and paper manufacture machinery and parts thereof nes" />
+<Description about="I274" Commodity_Code="726" Commodity_description="Printing bookbinding machinery and parts thereof nes" />
+<Description about="I275" Commodity_Code="727" Commodity_description="Food-processing machines (non-domestic) and parts thereof nes" />
+<Description about="I276" Commodity_Code="728" Commodity_description="Other machinery equipment for specialized industries; parts nes" />
+<Description about="I277" Commodity_Code="730" Commodity_description="Chocolate and other preparations containing cocoa nes" />
+<Description about="I278" Commodity_Code="736" Commodity_description="Metalworking machine-tools parts and accessories thereof nes" />
+<Description about="I279" Commodity_Code="737" Commodity_description="Metalworking machinery (other than machine-tools) and parts nes" />
+<Description about="I280" Commodity_Code="741" Commodity_description="Tea" />
+<Description about="I281" Commodity_Code="742" Commodity_description="Mate" />
+<Description about="I282" Commodity_Code="743" Commodity_description="Pumps compressors; centrifuges; filtering apparatus; etc parts" />
+<Description about="I283" Commodity_Code="744" Commodity_description="Mechanical handling equipment and parts thereof nes" />
+<Description about="I284" Commodity_Code="745" Commodity_description="Other non-electric machinery tools and mechanical apparatus nes" />
+<Description about="I285" Commodity_Code="749" Commodity_description="Non-electric parts and accessories of machinery nes" />
+<Description about="I286" Commodity_Code="751" Commodity_description="Pepper of piper; pimento of capsicum or pimenta" />
+<Description about="I287" Commodity_Code="752" Commodity_description="Spices except pepper and pimento" />
+<Description about="I288" Commodity_Code="759" Commodity_description="Parts nes of and accessories for machines of headings 751 or 752" />
+<Description about="I289" Commodity_Code="761" Commodity_description="Television receivers" />
+<Description about="I290" Commodity_Code="762" Commodity_description="Radio-broadcast receivers" />
+<Description about="I291" Commodity_Code="763" Commodity_description="Gramophones dictating machines and other sound recorders" />
+<Description about="I292" Commodity_Code="764" Commodity_description="Telecommunication equipment nes; parts and accessories nes" />
+<Description about="I293" Commodity_Code="771" Commodity_description="Electric power machinery and parts thereof nes" />
+<Description about="I294" Commodity_Code="772" Commodity_description="Electrical apparatus for making and breaking electrical circuits" />
+<Description about="I295" Commodity_Code="773" Commodity_description="Equipment for distribution of electricity" />
+<Description about="I296" Commodity_Code="774" Commodity_description="Electro-medical and radiological equipment" />
+<Description about="I297" Commodity_Code="775" Commodity_description="Household type equipment nes" />
+<Description about="I298" Commodity_Code="776" Commodity_description="Thermionic microcircuits transistors valves etc" />
+<Description about="I299" Commodity_Code="778" Commodity_description="Electrical machinery and apparatus nes" />
+<Description about="I300" Commodity_Code="781" Commodity_description="Passenger motor vehicles (excluding buses)" />
+<Description about="I301" Commodity_Code="782" Commodity_description="Lorries and special purposes motor vehicles" />
+<Description about="I302" Commodity_Code="783" Commodity_description="Road motor vehicles nes" />
+<Description about="I303" Commodity_Code="784" Commodity_description="Motor vehicle parts and accessories nes" />
+<Description about="I304" Commodity_Code="785" Commodity_description="Cycles scooters motorized or not; invalid carriages" />
+<Description about="I305" Commodity_Code="786" Commodity_description="Trailers and other vehicles not motorized nes" />
+<Description about="I306" Commodity_Code="791" Commodity_description="Railway vehicles and associated equipment" />
+<Description about="I307" Commodity_Code="792" Commodity_description="Aircraft and associated equipment and parts thereof nes" />
+<Description about="I308" Commodity_Code="793" Commodity_description="Ships boats and floating structures" />
+<Description about="I309" Commodity_Code="811" Commodity_description="Hay and fodder green or dry" />
+<Description about="I310" Commodity_Code="812" Commodity_description="Bran sharps and other residues derives of cereals" />
+<Description about="I311" Commodity_Code="813" Commodity_description="Oilcake and other residues (except dregs)" />
+<Description about="I312" Commodity_Code="814" Commodity_description="Flours and meals of meat fishetc unfit for human; greaves" />
+<Description about="I313" Commodity_Code="819" Commodity_description="Food waste and prepared animal feed nes" />
+<Description about="I314" Commodity_Code="821" Commodity_description="Furniture and parts thereof" />
+<Description about="I315" Commodity_Code="831" Commodity_description="Travel goods handbags etc of leather plastics textile others" />
+<Description about="I316" Commodity_Code="842" Commodity_description="Men's and boys' outerwear textile fabrics not knitted or crocheted" />
+<Description about="I317" Commodity_Code="843" Commodity_description="Womens girls infants outerwear textile not knitted or crocheted" />
+<Description about="I318" Commodity_Code="844" Commodity_description="Under garments of textile fabrics not knitted or crocheted" />
+<Description about="I319" Commodity_Code="845" Commodity_description="Outerwear knitted or crocheted not elastic nor rubberized" />
+<Description about="I320" Commodity_Code="846" Commodity_description="Under-garments knitted or crocheted" />
+<Description about="I321" Commodity_Code="847" Commodity_description="Clothing accessories of textile fabrics nes" />
+<Description about="I322" Commodity_Code="848" Commodity_description="Articles of apparel clothing accessories non-textile headgear" />
+<Description about="I323" Commodity_Code="851" Commodity_description="Footwear" />
+<Description about="I324" Commodity_Code="871" Commodity_description="Optical instruments and apparatus" />
+<Description about="I325" Commodity_Code="872" Commodity_description="Medical instruments and appliances nes" />
+<Description about="I326" Commodity_Code="873" Commodity_description="Meters and counters nes" />
+<Description about="I327" Commodity_Code="874" Commodity_description="Measuring checking analysis controlling instruments nes parts" />
+<Description about="I328" Commodity_Code="881" Commodity_description="Photographic apparatus and equipment nes" />
+<Description about="I329" Commodity_Code="882" Commodity_description="Photographic and cinematographic supplies" />
+<Description about="I330" Commodity_Code="883" Commodity_description="Cinematograph film exposed and developed" />
+<Description about="I331" Commodity_Code="884" Commodity_description="Optical goods nes" />
+<Description about="I332" Commodity_Code="885" Commodity_description="Watches and clocks" />
+<Description about="I333" Commodity_Code="892" Commodity_description="Printed matter" />
+<Description about="I334" Commodity_Code="893" Commodity_description="Articles nes of plastic materials" />
+<Description about="I335" Commodity_Code="894" Commodity_description="Baby carriages toys games and sporting goods" />
+<Description about="I336" Commodity_Code="895" Commodity_description="Office and stationary supplies nes" />
+<Description about="I337" Commodity_Code="896" Commodity_description="Works of art collectors' pieces and antiques" />
+<Description about="I338" Commodity_Code="897" Commodity_description="Gold silver ware jewelry and articles of precious materials nes" />
+<Description about="I339" Commodity_Code="898" Commodity_description="Musical instruments parts and accessories thereof" />
+<Description about="I340" Commodity_Code="899" Commodity_description="Other miscellaneous manufactured articles nes" />
+<Description about="I341" Commodity_Code="911" Commodity_description="Postal packages not classified according to kind" />
+<Description about="I342" Commodity_Code="913" Commodity_description="Lard pig and poultry fat rendered or solvent-extracted" />
+<Description about="I343" Commodity_Code="914" Commodity_description="Margarine imitation lard and other prepared edible fats nes" />
+<Description about="I344" Commodity_Code="931" Commodity_description="Special transactions commodity not classified according to class" />
+<Description about="I345" Commodity_Code="941" Commodity_description="Animals live nes (including zoo animals pets insects etc)" />
+<Description about="I346" Commodity_Code="951" Commodity_description="Armoured fighting vehicles war firearms ammunition parts nes" />
+<Description about="I347" Commodity_Code="961" Commodity_description="Coin (other than gold coin) not being legal tender" />
+<Description about="I348" Commodity_Code="971" Commodity_description="Gold non-monetary (excluding gold ores and concentrates)" />
+<Description about="I349" Commodity_Code="980" Commodity_description="Edible products and preparations nes" />
+<Description about="I350" Commodity_Code="1110" Commodity_description="Non-alcoholic beverages nes" />
+<Description about="I351" Commodity_Code="1121" Commodity_description="Wine of fresh grapes etc" />
+<Description about="I352" Commodity_Code="1122" Commodity_description="Other fermented beverages nes (cider perry mead etc)" />
+<Description about="I353" Commodity_Code="1123" Commodity_description="Beer made from malt (including ale stout and porter)" />
+<Description about="I354" Commodity_Code="1124" Commodity_description="Distilled alcoholic beverages nes" />
+<Description about="I355" Commodity_Code="1211" Commodity_description="Tobacco not stripped" />
+<Description about="I356" Commodity_Code="1212" Commodity_description="Tobacco wholly or partly stripped" />
+<Description about="I357" Commodity_Code="1213" Commodity_description="Tobacco refuse" />
+<Description about="I358" Commodity_Code="1221" Commodity_description="Cigars cheroots: cigarillos" />
+<Description about="I359" Commodity_Code="1222" Commodity_description="Cigarettes" />
+<Description about="I360" Commodity_Code="1223" Commodity_description="Tobacco manufactured; tobacco extract and essences" />
+<Description about="I361" Commodity_Code="2111" Commodity_description="Bovine and equine hides raw whether or not split" />
+<Description about="I362" Commodity_Code="2112" Commodity_description="Calf skins raw whether or not split" />
+<Description about="I363" Commodity_Code="2114" Commodity_description="Goat and kid skins raw whether or not split" />
+<Description about="I364" Commodity_Code="2116" Commodity_description="Sheep and lamb skin with the wool on raw whether or not split" />
+<Description about="I365" Commodity_Code="2117" Commodity_description="Sheep and lamb skin without the wool raw whether or not split" />
+<Description about="I366" Commodity_Code="2119" Commodity_description="Hides and skins nes; waste and used leather" />
+<Description about="I367" Commodity_Code="2120" Commodity_description="Furskins raw" />
+<Description about="I368" Commodity_Code="2221" Commodity_description="Groundnuts green" />
+<Description about="I369" Commodity_Code="2222" Commodity_description="Soya beans" />
+<Description about="I370" Commodity_Code="2223" Commodity_description="Cotton seeds" />
+<Description about="I371" Commodity_Code="2224" Commodity_description="Sunflower seeds" />
+<Description about="I372" Commodity_Code="2225" Commodity_description="Sesame seeds" />
+<Description about="I373" Commodity_Code="2226" Commodity_description="Rape and colza seeds" />
+<Description about="I374" Commodity_Code="2231" Commodity_description="Copra" />
+<Description about="I375" Commodity_Code="2232" Commodity_description="Palm nuts and kernels" />
+<Description about="I376" Commodity_Code="2234" Commodity_description="Linseed" />
+<Description about="I377" Commodity_Code="2235" Commodity_description="Castor oil seeds" />
+<Description about="I378" Commodity_Code="2238" Commodity_description="Oil seeds and oleaginous fruits nes" />
+<Description about="I379" Commodity_Code="2239" Commodity_description="Flour or meals of oil seeds or oleaginous fruit non-defatted" />
+<Description about="I380" Commodity_Code="2320" Commodity_description="Natural rubber latex; natural rubber and gums" />
+<Description about="I381" Commodity_Code="2331" Commodity_description="Synthetic rubber latex; factice derived from oils" />
+<Description about="I382" Commodity_Code="2332" Commodity_description="Reclaimed rubber waste scrap of unhardened rubber" />
+<Description about="I383" Commodity_Code="2440" Commodity_description="Cork natural raw and waste" />
+<Description about="I384" Commodity_Code="2450" Commodity_description="Fuel wood and wood charcoal" />
+<Description about="I385" Commodity_Code="2460" Commodity_description="Pulpwood (including chips and wood waste)" />
+<Description about="I386" Commodity_Code="2471" Commodity_description="Sawlogs and veneer logs of coniferous species" />
+<Description about="I387" Commodity_Code="2472" Commodity_description="Sawlogs and veneer logs of non-coniferous species" />
+<Description about="I388" Commodity_Code="2479" Commodity_description="Pitprops poles piling post and other wood in the rough nes" />
+<Description about="I389" Commodity_Code="2481" Commodity_description="Railway or tramway sleepers (ties) of wood" />
+<Description about="I390" Commodity_Code="2482" Commodity_description="Wood of coniferous species sawn planed tongued grooved etc" />
+<Description about="I391" Commodity_Code="2483" Commodity_description="Wood non-coniferous species sawn planed tongued grooved etc" />
+<Description about="I392" Commodity_Code="2511" Commodity_description="Waste paper and paperboard etc" />
+<Description about="I393" Commodity_Code="2512" Commodity_description="Mechanical wood pulp" />
+<Description about="I394" Commodity_Code="2516" Commodity_description="Chemical wood pulp dissolving grades" />
+<Description about="I395" Commodity_Code="2517" Commodity_description="Chemical wood pulp soda or sulphate" />
+<Description about="I396" Commodity_Code="2518" Commodity_description="Chemical wood pulp sulphite" />
+<Description about="I397" Commodity_Code="2519" Commodity_description="Other cellulosic pulps" />
+<Description about="I398" Commodity_Code="2613" Commodity_description="Raw silk (not thrown)" />
+<Description about="I399" Commodity_Code="2614" Commodity_description="Silk worm cocoons and silk waste" />
+<Description about="I400" Commodity_Code="2631" Commodity_description="Raw cotton excluding linters not carded or combed" />
+<Description about="I401" Commodity_Code="2632" Commodity_description="Cotton linters" />
+<Description about="I402" Commodity_Code="2633" Commodity_description="Cotton waste not carded or combed" />
+<Description about="I403" Commodity_Code="2634" Commodity_description="Cotton carded or combed" />
+<Description about="I404" Commodity_Code="2640" Commodity_description="Jute other textile bast fibres nes raw processed but not spun" />
+<Description about="I405" Commodity_Code="2651" Commodity_description="Flax and ramie flax tow ramie noils and waste" />
+<Description about="I406" Commodity_Code="2652" Commodity_description="True hemp raw or processed but not spun its tow and waste" />
+<Description about="I407" Commodity_Code="2654" Commodity_description="Sisal agave fibres raw or processed but not spun and waste" />
+<Description about="I408" Commodity_Code="2655" Commodity_description="Manila hemp raw or processed but not spun its tow and waste" />
+<Description about="I409" Commodity_Code="2659" Commodity_description="Vegetable textile fibres nes and waste" />
+<Description about="I410" Commodity_Code="2665" Commodity_description="Discontinuous synthetic fibres not carded or combed" />
+<Description about="I411" Commodity_Code="2666" Commodity_description="Continuous filament tow for synthetic (discontinuous) fibres" />
+<Description about="I412" Commodity_Code="2667" Commodity_description="Discontinuous synthetic fibres carded or combed" />
+<Description about="I413" Commodity_Code="2671" Commodity_description="Regenerated fibre suitable for spinning" />
+<Description about="I414" Commodity_Code="2672" Commodity_description="Waste of man-made fibres not carded or combed" />
+<Description about="I415" Commodity_Code="2681" Commodity_description="Wool greasy or fleece-washed of sheep or lambs" />
+<Description about="I416" Commodity_Code="2682" Commodity_description="Wool degreased uncombed of sheep or lambs" />
+<Description about="I417" Commodity_Code="2683" Commodity_description="Fine animal hair not carded or combed" />
+<Description about="I418" Commodity_Code="2685" Commodity_description="Horsehair and other coarse animal hair not carded or combed" />
+<Description about="I419" Commodity_Code="2686" Commodity_description="Waste of sheep's or lambs' wool or of other animal hair nes" />
+<Description about="I420" Commodity_Code="2687" Commodity_description="Sheep's or lambs' wool or of other animal hair carded or combed" />
+<Description about="I421" Commodity_Code="2690" Commodity_description="Old clothing and other old textile articles; rags" />
+<Description about="I422" Commodity_Code="2711" Commodity_description="Animal or vegetable fertilizer crude" />
+<Description about="I423" Commodity_Code="2712" Commodity_description="Natural sodium nitrate" />
+<Description about="I424" Commodity_Code="2713" Commodity_description="Natural calcium phosphates natural aluminium etc" />
+<Description about="I425" Commodity_Code="2714" Commodity_description="Potassium salts natural crude" />
+<Description about="I426" Commodity_Code="2731" Commodity_description="Building and monumental (dimension) stone roughly squared split" />
+<Description about="I427" Commodity_Code="2732" Commodity_description="Gypsum plasters limestone flux and calcareous stone" />
+<Description about="I428" Commodity_Code="2733" Commodity_description="Sands excluding metal-bearing sands" />
+<Description about="I429" Commodity_Code="2734" Commodity_description="Pebbles gravel crushed or broken stone etc" />
+<Description about="I430" Commodity_Code="2741" Commodity_description="Sulphur (other than sublimed precipitated or colloidal)" />
+<Description about="I431" Commodity_Code="2742" Commodity_description="Iron pyrites unroasted" />
+<Description about="I432" Commodity_Code="2771" Commodity_description="Industrial diamonds" />
+<Description about="I433" Commodity_Code="2772" Commodity_description="Other natural abrasives" />
+<Description about="I434" Commodity_Code="2782" Commodity_description="Clay and other refractory minerals nes" />
+<Description about="I435" Commodity_Code="2783" Commodity_description="Common salt; pure sodium chloride; salt liquors; sea water" />
+<Description about="I436" Commodity_Code="2784" Commodity_description="Asbestos" />
+<Description about="I437" Commodity_Code="2785" Commodity_description="Quartz mica felspar fluorspar cryolite and chiolite" />
+<Description about="I438" Commodity_Code="2786" Commodity_description="Slag scalings dross and similar waste nes" />
+<Description about="I439" Commodity_Code="2789" Commodity_description="Minerals crude nes" />
+<Description about="I440" Commodity_Code="2814" Commodity_description="Roasted iron pyrites" />
+<Description about="I441" Commodity_Code="2815" Commodity_description="Iron ore and concentrates not agglomerated" />
+<Description about="I442" Commodity_Code="2816" Commodity_description="Iron ore agglomerates" />
+<Description about="I443" Commodity_Code="2820" Commodity_description="Waste and scrap metal of iron or steel" />
+<Description about="I444" Commodity_Code="2860" Commodity_description="Ores and concentrates of uranium and thorium" />
+<Description about="I445" Commodity_Code="2871" Commodity_description="Copper ore and concentrates; copper matte; cement copper" />
+<Description about="I446" Commodity_Code="2872" Commodity_description="Nickel ores and concentrates; nickel mattes etc" />
+<Description about="I447" Commodity_Code="2873" Commodity_description="Aluminium ores and concentrates (including alumina)" />
+<Description about="I448" Commodity_Code="2874" Commodity_description="Lead ores and concentrates" />
+<Description about="I449" Commodity_Code="2875" Commodity_description="Zinc ores and concentrates" />
+<Description about="I450" Commodity_Code="2876" Commodity_description="Tin ores and concentrates" />
+<Description about="I451" Commodity_Code="2877" Commodity_description="Manganese ore and concentrates" />
+<Description about="I452" Commodity_Code="2879" Commodity_description="Ores and concentrates of other non-ferrous base metals" />
+<Description about="I453" Commodity_Code="2881" Commodity_description="Ash and residues nes" />
+<Description about="I454" Commodity_Code="2882" Commodity_description="Other non-ferrous base metal waste and scrap nes" />
+<Description about="I455" Commodity_Code="2890" Commodity_description="Ores and concentrates of precious metals waste scrap" />
+<Description about="I456" Commodity_Code="2911" Commodity_description="Bones ivory horns coral shells and similar products" />
+<Description about="I457" Commodity_Code="2919" Commodity_description="Other materials of animal origin nes" />
+<Description about="I458" Commodity_Code="2922" Commodity_description="Natural gums resins lacs and balsams" />
+<Description about="I459" Commodity_Code="2923" Commodity_description="Vegetable plaiting materials" />
+<Description about="I460" Commodity_Code="2924" Commodity_description="Plants and parts of trees used in perfumery; in pharmacy; etc" />
+<Description about="I461" Commodity_Code="2925" Commodity_description="Seeds fruits and spores nes for planting" />
+<Description about="I462" Commodity_Code="2926" Commodity_description="Live plants bulbs etc" />
+<Description about="I463" Commodity_Code="2927" Commodity_description="Cut flowers and foliage" />
+<Description about="I464" Commodity_Code="2929" Commodity_description="Other materials of vegetable origin nes" />
+<Description about="I465" Commodity_Code="3221" Commodity_description="Anthracite not agglomerated" />
+<Description about="I466" Commodity_Code="3222" Commodity_description="Other coal not agglomerated" />
+<Description about="I467" Commodity_Code="3223" Commodity_description="Lignite not agglomerated" />
+<Description about="I468" Commodity_Code="3224" Commodity_description="Peat not agglomerated" />
+<Description about="I469" Commodity_Code="3231" Commodity_description="Briquettes ovoids from coal lignite or peat" />
+<Description about="I470" Commodity_Code="3232" Commodity_description="Coke and semi-coke of coal of lignite or peat; retort carbon" />
+<Description about="I471" Commodity_Code="3330" Commodity_description="Crude petroleum and oils obtained from bituminous materials" />
+<Description about="I472" Commodity_Code="3341" Commodity_description="Gasoline and other light oils" />
+<Description about="I473" Commodity_Code="3342" Commodity_description="Kerosene and other medium oils" />
+<Description about="I474" Commodity_Code="3343" Commodity_description="Gas oils" />
+<Description about="I475" Commodity_Code="3344" Commodity_description="Fuel oils nes" />
+<Description about="I476" Commodity_Code="3345" Commodity_description="Lubricating petroleum oils and preparations nes" />
+<Description about="I477" Commodity_Code="3351" Commodity_description="Petroleum jelly and mineral waxes" />
+<Description about="I478" Commodity_Code="3352" Commodity_description="Mineral tars and products" />
+<Description about="I479" Commodity_Code="3353" Commodity_description="Mineral tar pitch pitch coke" />
+<Description about="I480" Commodity_Code="3354" Commodity_description="Petroleum bitumen petroleum coke and bituminous mixtures nes" />
+<Description about="I481" Commodity_Code="3413" Commodity_description="Petroleum gases and other gaseous hydrocarbons nes liquefied" />
+<Description about="I482" Commodity_Code="3414" Commodity_description="Petroleum gases nes in gaseous state" />
+<Description about="I483" Commodity_Code="3415" Commodity_description="Coal gas water gas and similar gases" />
+<Description about="I484" Commodity_Code="3510" Commodity_description="Electric current" />
+<Description about="I485" Commodity_Code="4111" Commodity_description="Fat and oils of fish and marine mammals" />
+<Description about="I486" Commodity_Code="4113" Commodity_description="Animals oils fats and greases nes" />
+<Description about="I487" Commodity_Code="4232" Commodity_description="Soya bean oil" />
+<Description about="I488" Commodity_Code="4233" Commodity_description="Cotton seed oil" />
+<Description about="I489" Commodity_Code="4234" Commodity_description="Groundnut (peanut) oil" />
+<Description about="I490" Commodity_Code="4235" Commodity_description="Olive oil" />
+<Description about="I491" Commodity_Code="4236" Commodity_description="Sunflower seed oil" />
+<Description about="I492" Commodity_Code="4239" Commodity_description="Other fixed vegetable oils soft" />
+<Description about="I493" Commodity_Code="4241" Commodity_description="Linseed oil" />
+<Description about="I494" Commodity_Code="4242" Commodity_description="Palm oil" />
+<Description about="I495" Commodity_Code="4243" Commodity_description="Coconut (copra) oil" />
+<Description about="I496" Commodity_Code="4244" Commodity_description="Palm kernel oil" />
+<Description about="I497" Commodity_Code="4245" Commodity_description="Castor oil" />
+<Description about="I498" Commodity_Code="4249" Commodity_description="Fixed vegetable oils nes" />
+<Description about="I499" Commodity_Code="4311" Commodity_description="Processed animal and vegetable oils" />
+<Description about="I500" Commodity_Code="4312" Commodity_description="Hydrogenated animal or vegetable oils and fats" />
+<Description about="I501" Commodity_Code="4313" Commodity_description="Fatty acids acid oils and residues; degras" />
+<Description about="I502" Commodity_Code="4314" Commodity_description="Waxes of animal or vegetable origin" />
+<Description about="I503" Commodity_Code="5111" Commodity_description="Acyclic hydrocarbons" />
+<Description about="I504" Commodity_Code="5112" Commodity_description="Cyclic hydrocarbons" />
+<Description about="I505" Commodity_Code="5113" Commodity_description="Halogenated derivatives of hydrocarbons" />
+<Description about="I506" Commodity_Code="5114" Commodity_description="Hydrocarbons derivatives nonhaloganeted" />
+<Description about="I507" Commodity_Code="5121" Commodity_description="Acyclic alcohols and their derivatives" />
+<Description about="I508" Commodity_Code="5122" Commodity_description="Cyclic alcohols and their derivatives" />
+<Description about="I509" Commodity_Code="5123" Commodity_description="Phenols and phenol-alcohols and their derivatives" />
+<Description about="I510" Commodity_Code="5137" Commodity_description="Monocarboxylic acids and their derivatives" />
+<Description about="I511" Commodity_Code="5138" Commodity_description="Polycarboxylic acids and their derivatives" />
+<Description about="I512" Commodity_Code="5139" Commodity_description="Oxygen-function acids and their derivatives" />
+<Description about="I513" Commodity_Code="5145" Commodity_description="Amine-function compounds" />
+<Description about="I514" Commodity_Code="5146" Commodity_description="Oxygen-function amino-compounds" />
+<Description about="I515" Commodity_Code="5147" Commodity_description="Amide-function compounds; excluding urea" />
+<Description about="I516" Commodity_Code="5148" Commodity_description="Other nitrogen-function compounds" />
+<Description about="I517" Commodity_Code="5154" Commodity_description="Organo-sulphur compounds" />
+<Description about="I518" Commodity_Code="5155" Commodity_description="Other organo-inorganic compounds" />
+<Description about="I519" Commodity_Code="5156" Commodity_description="Heterocyclic compound; nucleic acids" />
+<Description about="I520" Commodity_Code="5157" Commodity_description="Sulphonamides sultones and sultams" />
+<Description about="I521" Commodity_Code="5161" Commodity_description="Ethers epoxides acetals" />
+<Description about="I522" Commodity_Code="5162" Commodity_description="Aldehyde ketone and quinone-function compounds" />
+<Description about="I523" Commodity_Code="5163" Commodity_description="Inorganic esters their salts and derivatives" />
+<Description about="I524" Commodity_Code="5169" Commodity_description="Organic chemicals nes" />
+<Description about="I525" Commodity_Code="5221" Commodity_description="Chemical elements" />
+<Description about="I526" Commodity_Code="5222" Commodity_description="Inorganic acids and oxygen compounds of non-metals" />
+<Description about="I527" Commodity_Code="5223" Commodity_description="Halogen and sulphur compounds of non-metals" />
+<Description about="I528" Commodity_Code="5224" Commodity_description="Metallic oxides of zinc iron lead chromium etc" />
+<Description about="I529" Commodity_Code="5225" Commodity_description="Inorganic bases and metallic oxides hydroxides and peroxides" />
+<Description about="I530" Commodity_Code="5231" Commodity_description="Metallic salts and peroxysalts of inorganic acids" />
+<Description about="I531" Commodity_Code="5232" Commodity_description="Metallic salts and peroxysalts of inorganic acids" />
+<Description about="I532" Commodity_Code="5233" Commodity_description="Salts of metallic acids; compounds of precious metals" />
+<Description about="I533" Commodity_Code="5239" Commodity_description="Inorganic chemical products nes" />
+<Description about="I534" Commodity_Code="5241" Commodity_description="Radio-active chemical elements isotopes etc" />
+<Description about="I535" Commodity_Code="5249" Commodity_description="Other radio-active and associated materials" />
+<Description about="I536" Commodity_Code="5311" Commodity_description="Synthetic organic dyestuffs etc natural indigo and colour lakes" />
+<Description about="I537" Commodity_Code="5312" Commodity_description="Synthetic organic luminophores indigo lakes" />
+<Description about="I538" Commodity_Code="5322" Commodity_description="Dyeing tanning extracts tannins and their derivatives" />
+<Description about="I539" Commodity_Code="5323" Commodity_description="Synthetic tanning substances; tanning preparations" />
+<Description about="I540" Commodity_Code="5331" Commodity_description="Other colouring matter; inorganic products use as luminophores" />
+<Description about="I541" Commodity_Code="5332" Commodity_description="Printing inks" />
+<Description about="I542" Commodity_Code="5334" Commodity_description="Varnishes and lacquers; distempers etc" />
+<Description about="I543" Commodity_Code="5335" Commodity_description="Glazes driers putty etc" />
+<Description about="I544" Commodity_Code="5411" Commodity_description="Provitamins and vitamins" />
+<Description about="I545" Commodity_Code="5413" Commodity_description="Antibiotics not put up as medicaments" />
+<Description about="I546" Commodity_Code="5414" Commodity_description="Vegetable alkaloids and derivatives not put up as medicaments" />
+<Description about="I547" Commodity_Code="5415" Commodity_description="Hormones natural or reproduce by synthesis in bulk" />
+<Description about="I548" Commodity_Code="5416" Commodity_description="Glycosides glands antisera vaccines and similar products" />
+<Description about="I549" Commodity_Code="5417" Commodity_description="Medicaments (including veterinary medicaments)" />
+<Description about="I550" Commodity_Code="5419" Commodity_description="Pharmaceutical goods other than medicaments" />
+<Description about="I551" Commodity_Code="5513" Commodity_description="Essential oil resinoid etc" />
+<Description about="I552" Commodity_Code="5514" Commodity_description="Mixtures of odoriferous substances used in perfumery food etc" />
+<Description about="I553" Commodity_Code="5530" Commodity_description="Perfumery cosmetics toilet preparations etc" />
+<Description about="I554" Commodity_Code="5541" Commodity_description="Soaps organic products and preparations for use as soap" />
+<Description about="I555" Commodity_Code="5542" Commodity_description="Organic surface-active agents nes" />
+<Description about="I556" Commodity_Code="5543" Commodity_description="Polishes and creams for furniture floors footwear metals etc" />
+<Description about="I557" Commodity_Code="5621" Commodity_description="Mineral or chemical fertilizers nitrogenous" />
+<Description about="I558" Commodity_Code="5622" Commodity_description="Mineral or chemical fertilizers phosphatic" />
+<Description about="I559" Commodity_Code="5623" Commodity_description="Mineral or chemical fertilizer potassic" />
+<Description about="I560" Commodity_Code="5629" Commodity_description="Fertilizers nes" />
+<Description about="I561" Commodity_Code="5721" Commodity_description="Propellent powders and other prepared explosives" />
+<Description about="I562" Commodity_Code="5722" Commodity_description="Fuses caps igniters detonators" />
+<Description about="I563" Commodity_Code="5723" Commodity_description="Pyrotechnic articles" />
+<Description about="I564" Commodity_Code="5821" Commodity_description="Phenoplasts" />
+<Description about="I565" Commodity_Code="5822" Commodity_description="Aminoplasts" />
+<Description about="I566" Commodity_Code="5823" Commodity_description="Alkyds and other polyesters" />
+<Description about="I567" Commodity_Code="5824" Commodity_description="Polyamides" />
+<Description about="I568" Commodity_Code="5825" Commodity_description="Polyurethanes" />
+<Description about="I569" Commodity_Code="5826" Commodity_description="Epoxide resins" />
+<Description about="I570" Commodity_Code="5827" Commodity_description="Silicones" />
+<Description about="I571" Commodity_Code="5828" Commodity_description="Ion exchangers of the condensation polycondensation etc" />
+<Description about="I572" Commodity_Code="5829" Commodity_description="Other condensation polycodensation or polyaddition products" />
+<Description about="I573" Commodity_Code="5831" Commodity_description="Polyethylene" />
+<Description about="I574" Commodity_Code="5832" Commodity_description="Polypropylene" />
+<Description about="I575" Commodity_Code="5833" Commodity_description="Polystyrene and its copolymers" />
+<Description about="I576" Commodity_Code="5834" Commodity_description="Polyvinyl chloride" />
+<Description about="I577" Commodity_Code="5835" Commodity_description="Copolymers of vinyl chloride and vinyl acetate" />
+<Description about="I578" Commodity_Code="5836" Commodity_description="Acrylic and methaacrylic polymers; acrylo-methacrylic copolymers" />
+<Description about="I579" Commodity_Code="5837" Commodity_description="Polyvinyl acetate" />
+<Description about="I580" Commodity_Code="5838" Commodity_description="Ion exchangers of the polymerization or copolymerization type" />
+<Description about="I581" Commodity_Code="5839" Commodity_description="Other polymerization and copolymarization products" />
+<Description about="I582" Commodity_Code="5841" Commodity_description="Regenerated cellulose" />
+<Description about="I583" Commodity_Code="5842" Commodity_description="Cellulose nitrates" />
+<Description about="I584" Commodity_Code="5843" Commodity_description="Cellulose acetates" />
+<Description about="I585" Commodity_Code="5849" Commodity_description="Other chemical derivatives of cellulose; vulcanized fibre" />
+<Description about="I586" Commodity_Code="5851" Commodity_description="Modified natural resins etc; derivatives of natural rubber" />
+<Description about="I587" Commodity_Code="5852" Commodity_description="Other artificial plastic materials nes" />
+<Description about="I588" Commodity_Code="5911" Commodity_description="Insecticides for sale by retail or as preparations" />
+<Description about="I589" Commodity_Code="5912" Commodity_description="Fungicides for sale by retail or as preparation" />
+<Description about="I590" Commodity_Code="5913" Commodity_description="Herbicides for sale by retail or as preparation" />
+<Description about="I591" Commodity_Code="5914" Commodity_description="Disinfectants etc for sale by retail or as preparation" />
+<Description about="I592" Commodity_Code="5921" Commodity_description="Starches insulin and wheat gluten" />
+<Description about="I593" Commodity_Code="5922" Commodity_description="Albuminoid substances; glues" />
+<Description about="I594" Commodity_Code="5981" Commodity_description="Woods and resin-based chemical products" />
+<Description about="I595" Commodity_Code="5982" Commodity_description="Anti-knock preparation anti-corrosive; viscosity improvers; etc" />
+<Description about="I596" Commodity_Code="5983" Commodity_description="Organic chemical products nes" />
+<Description about="I597" Commodity_Code="5989" Commodity_description="Chemical products and preparations nes" />
+<Description about="I598" Commodity_Code="6112" Commodity_description="Composition leather in slabs sheets or rolls" />
+<Description about="I599" Commodity_Code="6113" Commodity_description="Calf leather" />
+<Description about="I600" Commodity_Code="6114" Commodity_description="Leather of other bovine cattle and equine leather" />
+<Description about="I601" Commodity_Code="6115" Commodity_description="Sheep and lamb skin leather" />
+<Description about="I602" Commodity_Code="6116" Commodity_description="Leather of other hides or skins" />
+<Description about="I603" Commodity_Code="6118" Commodity_description="Leather specially dressed or finished nes" />
+<Description about="I604" Commodity_Code="6121" Commodity_description="Articles of leather use in machinery or mechanical appliances etc" />
+<Description about="I605" Commodity_Code="6122" Commodity_description="Saddlery and harness of any material for any kind of animal" />
+<Description about="I606" Commodity_Code="6123" Commodity_description="Parts of footwear of any material except metal and asbestos" />
+<Description about="I607" Commodity_Code="6129" Commodity_description="Other articles of leather or of composition leather" />
+<Description about="I608" Commodity_Code="6130" Commodity_description="Furskins tanned or dressed; pieces of furskin tanned or dressed" />
+<Description about="I609" Commodity_Code="6210" Commodity_description="Materials of rubber" />
+<Description about="I610" Commodity_Code="6251" Commodity_description="Tires pneumatic new for motor cars" />
+<Description about="I611" Commodity_Code="6252" Commodity_description="Tires pneumatic new for buses and lorries" />
+<Description about="I612" Commodity_Code="6253" Commodity_description="Tires pneumatic new for aircraft" />
+<Description about="I613" Commodity_Code="6254" Commodity_description="Tires pneumatic new for motorcycles and bicycles" />
+<Description about="I614" Commodity_Code="6259" Commodity_description="Other tires tire cases tire flaps and inner tubes etc" />
+<Description about="I615" Commodity_Code="6281" Commodity_description="Hygienic pharmaceutical articles of unhardened vulcanized rubber" />
+<Description about="I616" Commodity_Code="6282" Commodity_description="Transmission conveyor or elevator belts of vulcanized rubber" />
+<Description about="I617" Commodity_Code="6289" Commodity_description="Other articles of rubber nes" />
+<Description about="I618" Commodity_Code="6330" Commodity_description="Cork manufactures" />
+<Description about="I619" Commodity_Code="6341" Commodity_description="Wood sawn lengthwise veneer sheets etc up to 5 mm in thickness" />
+<Description about="I620" Commodity_Code="6342" Commodity_description="Plywood consisting solely of sheets of wood" />
+<Description about="I621" Commodity_Code="6343" Commodity_description="Improved wood and reconstituted wood" />
+<Description about="I622" Commodity_Code="6344" Commodity_description="Wood-based panels nes" />
+<Description about="I623" Commodity_Code="6349" Commodity_description="Wood simply shaped nes" />
+<Description about="I624" Commodity_Code="6351" Commodity_description="Wood packing cases boxes cases crates etc complete" />
+<Description about="I625" Commodity_Code="6352" Commodity_description="Casks barrels; other coopers products and parts including staves" />
+<Description about="I626" Commodity_Code="6353" Commodity_description="Builders` carpentry and joinery (including prefabricated)" />
+<Description about="I627" Commodity_Code="6354" Commodity_description="Manufactures of wood for domestic or decorative use" />
+<Description about="I628" Commodity_Code="6359" Commodity_description="Manufactured articles of wood nes" />
+<Description about="I629" Commodity_Code="6411" Commodity_description="Newsprint" />
+<Description about="I630" Commodity_Code="6412" Commodity_description="Printing paper and writing paper in rolls or sheets" />
+<Description about="I631" Commodity_Code="6413" Commodity_description="Kraft paper and paperboard in rolls or sheets" />
+<Description about="I632" Commodity_Code="6415" Commodity_description="Paper and paperboard in rolls or sheets nes" />
+<Description about="I633" Commodity_Code="6416" Commodity_description="Fibre building board of wood or other vegetable material" />
+<Description about="I634" Commodity_Code="6417" Commodity_description="Paper and paperboard creped crinkled etc in rolls or sheets" />
+<Description about="I635" Commodity_Code="6418" Commodity_description="Paper and paperboard coated impregnated etc in rolls or sheets" />
+<Description about="I636" Commodity_Code="6419" Commodity_description="Converted paper and paperboard nes" />
+<Description about="I637" Commodity_Code="6421" Commodity_description="Packing containers box files etc of paper used in offices" />
+<Description about="I638" Commodity_Code="6422" Commodity_description="Correspondence stationary" />
+<Description about="I639" Commodity_Code="6423" Commodity_description="Registers exercise books file and book covers etc of paper" />
+<Description about="I640" Commodity_Code="6424" Commodity_description="Paper and paperboard cut to size or shape nes" />
+<Description about="I641" Commodity_Code="6428" Commodity_description="Articles of paper pulp paper paperboard or cellulose wadding nes" />
+<Description about="I642" Commodity_Code="6511" Commodity_description="Silk yarn and spun from noil or waste; silkworm gut" />
+<Description about="I643" Commodity_Code="6512" Commodity_description="Yarn of wool or animal hair (including wool tops)" />
+<Description about="I644" Commodity_Code="6513" Commodity_description="Cotton yarn" />
+<Description about="I645" Commodity_Code="6514" Commodity_description="Yarn 85% of synthetic fibres not for retail; monofil strip etc" />
+<Description about="I646" Commodity_Code="6515" Commodity_description="Yarn containing 85% or more of synthetic fibres put up for retail" />
+<Description about="I647" Commodity_Code="6516" Commodity_description="Yarn containing less than 85% of discontinuous synthetic fibres" />
+<Description about="I648" Commodity_Code="6517" Commodity_description="Yarn of regenerated fibres not for retail monofil strip etc" />
+<Description about="I649" Commodity_Code="6518" Commodity_description="Yarn of regenerated fibres put up for retail sale" />
+<Description about="I650" Commodity_Code="6519" Commodity_description="Yarn of textile fibres nes" />
+<Description about="I651" Commodity_Code="6521" Commodity_description="Cotton fabrics woven unbleached not mercerized" />
+<Description about="I652" Commodity_Code="6522" Commodity_description="Cotton fabrics woven bleached dyed etc or otherwise finished" />
+<Description about="I653" Commodity_Code="6531" Commodity_description="Fabrics woven of continuous synthetic textile materials" />
+<Description about="I654" Commodity_Code="6532" Commodity_description="Fabrics woven 85% plus of discontinuous synthetic fibres" />
+<Description about="I655" Commodity_Code="6534" Commodity_description="Fabrics woven less 85% of discontinuous synthetic fibres" />
+<Description about="I656" Commodity_Code="6535" Commodity_description="Fabric woven of continuous regenerated textile materials" />
+<Description about="I657" Commodity_Code="6536" Commodity_description="Fabrics woven 85% plus of discontinuous regenerated fibres" />
+<Description about="I658" Commodity_Code="6538" Commodity_description="Fabrics woven less 85% of discontinuous regenerated fibres" />
+<Description about="I659" Commodity_Code="6539" Commodity_description="Pile and chenille fabrics woven of man-made fibres" />
+<Description about="I660" Commodity_Code="6541" Commodity_description="Fabrics woven of silk of noil or other waste silk" />
+<Description about="I661" Commodity_Code="6542" Commodity_description="Fabrics woven 85% plus of sheep's or lambs' wool or of fine hair" />
+<Description about="I662" Commodity_Code="6543" Commodity_description="Fabrics woven of sheep's or lambs' wool or of fine hair nes" />
+<Description about="I663" Commodity_Code="6544" Commodity_description="Fabrics woven of flax or of ramie" />
+<Description about="I664" Commodity_Code="6545" Commodity_description="Fabrics woven of jute or other textile bast fibres of heading 2640" />
+<Description about="I665" Commodity_Code="6546" Commodity_description="Fabrics of glass fibre (including narrow pile fabrics lace etc)" />
+<Description about="I666" Commodity_Code="6549" Commodity_description="Fabrics woven nes" />
+<Description about="I667" Commodity_Code="6551" Commodity_description="Knitted etc not elastic nor rubberized of synthetic fibres" />
+<Description about="I668" Commodity_Code="6552" Commodity_description="Knitted not elastic nor rubberized of fibres other than synthetic" />
+<Description about="I669" Commodity_Code="6553" Commodity_description="Knitted or crocheted fabrics elastic or rubberized" />
+<Description about="I670" Commodity_Code="6560" Commodity_description="Tulle lace embroidery ribbons trimmings and other small wares" />
+<Description about="I671" Commodity_Code="6571" Commodity_description="Felt articles of felt nes whether or not impregnated or coated" />
+<Description about="I672" Commodity_Code="6572" Commodity_description="Bonded fibre fabrics etc whether or not impregnated or coated" />
+<Description about="I673" Commodity_Code="6573" Commodity_description="Coated or impregnated textile fabrics and products nes" />
+<Description about="I674" Commodity_Code="6574" Commodity_description="Elastic fabrics and trimming (not knitted or crocheted)" />
+<Description about="I675" Commodity_Code="6575" Commodity_description="Twine cordage ropes and cables and manufactures thereof" />
+<Description about="I676" Commodity_Code="6576" Commodity_description="Hat shapes hat-forms hat bodies and hoods" />
+<Description about="I677" Commodity_Code="6577" Commodity_description="Wadding wicks and textiles fabrics for use in machinery or plant" />
+<Description about="I678" Commodity_Code="6579" Commodity_description="Special products of textile materials" />
+<Description about="I679" Commodity_Code="6581" Commodity_description="Bags sacks of textile materials for the packing of goods" />
+<Description about="I680" Commodity_Code="6582" Commodity_description="Tarpaulins sails tents camping goods etc of textile fabrics" />
+<Description about="I681" Commodity_Code="6583" Commodity_description="Travelling rugs blankets (non electric) not knitted or crocheted" />
+<Description about="I682" Commodity_Code="6584" Commodity_description="Linens and furnishing articles of textile not knitted or crocheted" />
+<Description about="I683" Commodity_Code="6589" Commodity_description="Other made-up articles of textile materials nes" />
+<Description about="I684" Commodity_Code="6591" Commodity_description="Linoleum and similar floor covering" />
+<Description about="I685" Commodity_Code="6592" Commodity_description="Carpets carpeting and rugs knotted" />
+<Description about="I686" Commodity_Code="6593" Commodity_description="Kelem Schumacks and Karamanie rugs and the like" />
+<Description about="I687" Commodity_Code="6594" Commodity_description="Carpets rugs mats of wool or fine animal hair" />
+<Description about="I688" Commodity_Code="6595" Commodity_description="Carpets rugs mats of man-made textile materials nes" />
+<Description about="I689" Commodity_Code="6596" Commodity_description="Carpets rugs mats of other textile materials nes" />
+<Description about="I690" Commodity_Code="6597" Commodity_description="Plaits plaited products for all uses; straw envelopes for bottles" />
+<Description about="I691" Commodity_Code="6611" Commodity_description="Lime quick slaked and hydraulic (no calcium oxide or hydroxide)" />
+<Description about="I692" Commodity_Code="6612" Commodity_description="Cement" />
+<Description about="I693" Commodity_Code="6613" Commodity_description="Building and monumental stone worked and articles thereof" />
+<Description about="I694" Commodity_Code="6618" Commodity_description="Construction materials of asbestos-cement or fibre-cements etc" />
+<Description about="I695" Commodity_Code="6623" Commodity_description="Refractory bricks and other refractory construction materials" />
+<Description about="I696" Commodity_Code="6624" Commodity_description="Non-refractory ceramic bricks tiles pipes and similar products" />
+<Description about="I697" Commodity_Code="6631" Commodity_description="Hand polishing stone grindstones grinding wheels etc" />
+<Description about="I698" Commodity_Code="6632" Commodity_description="Abrasive power or grain on a base of woven fabrics" />
+<Description about="I699" Commodity_Code="6633" Commodity_description="Manufactures of mineral materials nes (other than ceramic)" />
+<Description about="I700" Commodity_Code="6635" Commodity_description="Wool; expanding or insulating mineral materials nes" />
+<Description about="I701" Commodity_Code="6637" Commodity_description="Refractory goods nes" />
+<Description about="I702" Commodity_Code="6638" Commodity_description="Manufactures of asbestos; friction materials" />
+<Description about="I703" Commodity_Code="6639" Commodity_description="Articles of ceramic materials nes" />
+<Description about="I704" Commodity_Code="6641" Commodity_description="Glass in the mass in balls rods or tubes (nonoptical); waste" />
+<Description about="I705" Commodity_Code="6642" Commodity_description="Optical glass and elements of optical glass (unworked)" />
+<Description about="I706" Commodity_Code="6643" Commodity_description="Drawn or blown glass (flashed glass) unworked in rectangles" />
+<Description about="I707" Commodity_Code="6644" Commodity_description="Glass cast rolled etc surface-ground but no further worked" />
+<Description about="I708" Commodity_Code="6645" Commodity_description="Cast rolled glass (flashed or wired) unworked in rectangles" />
+<Description about="I709" Commodity_Code="6646" Commodity_description="Bricks tiles etc of pressed or moulded glass used in building" />
+<Description about="I710" Commodity_Code="6647" Commodity_description="Safety glass consisting of toughened or laminated glass cut or not" />
+<Description about="I711" Commodity_Code="6648" Commodity_description="Glass mirror unframed framed or backed" />
+<Description about="I712" Commodity_Code="6649" Commodity_description="Glass nes" />
+<Description about="I713" Commodity_Code="6651" Commodity_description="Bottles etc of glass" />
+<Description about="I714" Commodity_Code="6652" Commodity_description="Glassware (other than heading 66582) for indoor decoration" />
+<Description about="I715" Commodity_Code="6658" Commodity_description="Articles made of glass nes" />
+<Description about="I716" Commodity_Code="6664" Commodity_description="Porcelain or china house ware" />
+<Description about="I717" Commodity_Code="6665" Commodity_description="Articles of domestic or toilet purposes of other kind of pottery" />
+<Description about="I718" Commodity_Code="6666" Commodity_description="Ornaments personal articles of porcelain china or ceramic nes" />
+<Description about="I719" Commodity_Code="6671" Commodity_description="Pearls not mounted set or strung" />
+<Description about="I720" Commodity_Code="6672" Commodity_description="Diamonds (non-industrial) not mounted or set" />
+<Description about="I721" Commodity_Code="6673" Commodity_description="Precious and semi-precious stones not mounted set or strung" />
+<Description about="I722" Commodity_Code="6674" Commodity_description="Synthetic or reconstructed precious or semi-precious stones" />
+<Description about="I723" Commodity_Code="6712" Commodity_description="Pig iron cast iron spiegeleisen in pigs blocks lumps etc" />
+<Description about="I724" Commodity_Code="6713" Commodity_description="Iron and steel powders shot or sponge" />
+<Description about="I725" Commodity_Code="6716" Commodity_description="Ferro-alloys" />
+<Description about="I726" Commodity_Code="6724" Commodity_description="Puddled bars pilings; ingots blocks lumps etc of iron or steel" />
+<Description about="I727" Commodity_Code="6725" Commodity_description="Blooms billets slabs and sheet bars of iron or steel" />
+<Description about="I728" Commodity_Code="6727" Commodity_description="Iron or steel coils for re-rolling" />
+<Description about="I729" Commodity_Code="6731" Commodity_description="Wire rod of iron or steel" />
+<Description about="I730" Commodity_Code="6732" Commodity_description="Bars rods (not wire rod) from iron or steel; hollow mining drill" />
+<Description about="I731" Commodity_Code="6733" Commodity_description="Angles shapes sections and sheet piling of iron or steel" />
+<Description about="I732" Commodity_Code="6741" Commodity_description="Universal plates of iron or steel" />
+<Description about="I733" Commodity_Code="6744" Commodity_description="Sheet plates rolled of thickness 475mm plus of iron or steel" />
+<Description about="I734" Commodity_Code="6745" Commodity_description="Sheet plates rolled of thickness 3mm to 475mm of iron or steel" />
+<Description about="I735" Commodity_Code="6746" Commodity_description="Sheet plates rolled of thickness less 3mm of iron or steel" />
+<Description about="I736" Commodity_Code="6747" Commodity_description="Tinned sheets plates of steel (not of high carbon or alloy steel)" />
+<Description about="I737" Commodity_Code="6749" Commodity_description="Other sheet and plates of iron or steel worked" />
+<Description about="I738" Commodity_Code="6750" Commodity_description="Hoop and strip of iron or steel hot-rolled or cold-rolled" />
+<Description about="I739" Commodity_Code="6760" Commodity_description="Rails and railway track construction materials of iron or steel" />
+<Description about="I740" Commodity_Code="6770" Commodity_description="Iron or steel wire (excluding wire rod) not insulated" />
+<Description about="I741" Commodity_Code="6781" Commodity_description="Tubes and pipes of cast iron" />
+<Description about="I742" Commodity_Code="6782" Commodity_description="Seamless tubes pipes; blanks for tubes and pipes of iron or steel" />
+<Description about="I743" Commodity_Code="6783" Commodity_description="Other tubes and pipes of iron or steel" />
+<Description about="I744" Commodity_Code="6784" Commodity_description="High-pressure hydro-electric conduit of steel" />
+<Description about="I745" Commodity_Code="6785" Commodity_description="Tube and pipes fittings of iron or steel" />
+<Description about="I746" Commodity_Code="6793" Commodity_description="Steel and iron forging and stampings in the rough state" />
+<Description about="I747" Commodity_Code="6794" Commodity_description="Castings of iron or steel in rough state" />
+<Description about="I748" Commodity_Code="6811" Commodity_description="Silver unwrought unworked or semi-manufactured" />
+<Description about="I749" Commodity_Code="6812" Commodity_description="Metals of platinum group unwrought unworked or semi-manufactured" />
+<Description about="I750" Commodity_Code="6821" Commodity_description="Copper and copper alloys refined or not unwrought" />
+<Description about="I751" Commodity_Code="6822" Commodity_description="Copper and copper alloys worked" />
+<Description about="I752" Commodity_Code="6831" Commodity_description="Nickel and nickel alloys unwrought" />
+<Description about="I753" Commodity_Code="6832" Commodity_description="Nickel and nickel alloys worked" />
+<Description about="I754" Commodity_Code="6841" Commodity_description="Aluminium and aluminium alloys unwrought" />
+<Description about="I755" Commodity_Code="6842" Commodity_description="Aluminium and aluminium alloys worked" />
+<Description about="I756" Commodity_Code="6851" Commodity_description="Lead and lead alloys unwrought" />
+<Description about="I757" Commodity_Code="6852" Commodity_description="Lead and lead alloys worked" />
+<Description about="I758" Commodity_Code="6861" Commodity_description="Zinc and zinc alloys unwrought" />
+<Description about="I759" Commodity_Code="6863" Commodity_description="Zinc and zinc alloys worked" />
+<Description about="I760" Commodity_Code="6871" Commodity_description="Tin and tin alloys unwrought" />
+<Description about="I761" Commodity_Code="6872" Commodity_description="Tin and tin alloys worked" />
+<Description about="I762" Commodity_Code="6880" Commodity_description="Uranium depleted in U235 thorium and alloys nes; waste and scrap" />
+<Description about="I763" Commodity_Code="6891" Commodity_description="Tungsten molybdenum tantalum magnesium unwrought; waste scrap" />
+<Description about="I764" Commodity_Code="6899" Commodity_description="Base metals nes and cermets unwrought (including waste and scrap)" />
+<Description about="I765" Commodity_Code="6911" Commodity_description="Structures and parts of of iron steel; plates rods and the like" />
+<Description about="I766" Commodity_Code="6912" Commodity_description="Structures and parts of of aluminium; plates rods and the like" />
+<Description about="I767" Commodity_Code="6921" Commodity_description="Iron steel aluminium reservoirs tanks etc capacity 300 lt plus" />
+<Description about="I768" Commodity_Code="6924" Commodity_description="Cask drums etc of iron steel aluminium for packing goods" />
+<Description about="I769" Commodity_Code="6931" Commodity_description="Wire cables cordage ropes plaited bans sling and the like" />
+<Description about="I770" Commodity_Code="6932" Commodity_description="Barbed iron or steel wire: fencing wire" />
+<Description about="I771" Commodity_Code="6935" Commodity_description="Gauze cloth grill netting reinforced fabric and the like" />
+<Description about="I772" Commodity_Code="6940" Commodity_description="Nails screws nuts bolts rivets etc of iron steel or copper" />
+<Description about="I773" Commodity_Code="6951" Commodity_description="Hand tools used in agriculture horticulture or forestry" />
+<Description about="I774" Commodity_Code="6953" Commodity_description="Other hand tools" />
+<Description about="I775" Commodity_Code="6954" Commodity_description="Interchangeable tools for hand or machine tools (tips blades etc)" />
+<Description about="I776" Commodity_Code="6960" Commodity_description="Cutlery" />
+<Description about="I777" Commodity_Code="6973" Commodity_description="Domestic non-electric heating cooking apparatus and parts nes" />
+<Description about="I778" Commodity_Code="6974" Commodity_description="Base metal domestic articles nes and parts thereof nes" />
+<Description about="I779" Commodity_Code="6975" Commodity_description="Base metal indoors sanitary ware and parts thereof nes" />
+<Description about="I780" Commodity_Code="6978" Commodity_description="Household appliances decorative article etc of base metal nes" />
+<Description about="I781" Commodity_Code="6991" Commodity_description="Locksmiths wares safes etc and hardware nes of base metal" />
+<Description about="I782" Commodity_Code="6992" Commodity_description="Chain and parts thereof of iron or steel" />
+<Description about="I783" Commodity_Code="6993" Commodity_description="Pins needles etc of iron steel; metal fittings for clothing" />
+<Description about="I784" Commodity_Code="6994" Commodity_description="Springs and leaves for springs of iron steel or copper" />
+<Description about="I785" Commodity_Code="6996" Commodity_description="Miscellaneous articles of base metal" />
+<Description about="I786" Commodity_Code="6997" Commodity_description="Articles of iron or steel nes" />
+<Description about="I787" Commodity_Code="6998" Commodity_description="Articles nes of copper nickel aluminium lead zinc and tin" />
+<Description about="I788" Commodity_Code="6999" Commodity_description="Other base metal manufactures nes; and of cermets" />
+<Description about="I789" Commodity_Code="7111" Commodity_description="Steam and other vapour-generated boilers; super-heated water boiler" />
+<Description about="I790" Commodity_Code="7112" Commodity_description="Auxiliary plant for boilers of heading 7111; condensers" />
+<Description about="I791" Commodity_Code="7119" Commodity_description="Parts nes of boilers and auxiliary plant of headings 7111 and 7112" />
+<Description about="I792" Commodity_Code="7126" Commodity_description="Steam power units (mobile engines but not steam tractors etc)" />
+<Description about="I793" Commodity_Code="7129" Commodity_description="Parts nes of steam power units" />
+<Description about="I794" Commodity_Code="7131" Commodity_description="Internal combustion piston engines for aircraft and parts nes" />
+<Description about="I795" Commodity_Code="7132" Commodity_description="Motor vehicles piston engines headings: 722; 78; 74411 and 95101" />
+<Description about="I796" Commodity_Code="7133" Commodity_description="Internal combustion piston engines marine propulsion" />
+<Description about="I797" Commodity_Code="7138" Commodity_description="Internal combustion piston engines nes" />
+<Description about="I798" Commodity_Code="7139" Commodity_description="Piston engines parts nes falling in headings: 7132 7133 and 7138" />
+<Description about="I799" Commodity_Code="7144" Commodity_description="Reaction engines" />
+<Description about="I800" Commodity_Code="7148" Commodity_description="Gas turbines nes" />
+<Description about="I801" Commodity_Code="7149" Commodity_description="Parts nes of the engines and motors of group 714 and item 71888" />
+<Description about="I802" Commodity_Code="7161" Commodity_description="Motors and generators direct current" />
+<Description about="I803" Commodity_Code="7162" Commodity_description="Electric motors generators (not direct current); generating sets" />
+<Description about="I804" Commodity_Code="7163" Commodity_description="Rotary converters" />
+<Description about="I805" Commodity_Code="7169" Commodity_description="Parts nes of rotating electric plant" />
+<Description about="I806" Commodity_Code="7187" Commodity_description="Nuclear reactors and parts thereof nes" />
+<Description about="I807" Commodity_Code="7188" Commodity_description="Engines and motors nes (wind hot air engines water wheel etc)" />
+<Description about="I808" Commodity_Code="7211" Commodity_description="Agricultural and horticultural machinery for soil preparation etc" />
+<Description about="I809" Commodity_Code="7212" Commodity_description="Harvesting and threshing machines; fodder presses etc; parts nes" />
+<Description about="I810" Commodity_Code="7213" Commodity_description="Dairy machinery nes (including milking machines) and parts nes" />
+<Description about="I811" Commodity_Code="7219" Commodity_description="Agricultural machinery and appliances nes and parts thereof nes" />
+<Description about="I812" Commodity_Code="7223" Commodity_description="Track-laying tractors" />
+<Description about="I813" Commodity_Code="7224" Commodity_description="Wheeled tractors (other than those falling in heading 74411 7832)" />
+<Description about="I814" Commodity_Code="7233" Commodity_description="Road rollers mechanically propelled" />
+<Description about="I815" Commodity_Code="7234" Commodity_description="Construction and mining machinery nes" />
+<Description about="I816" Commodity_Code="7239" Commodity_description="Parts nes of machinery and equipment of headings 72341 to 72346" />
+<Description about="I817" Commodity_Code="7243" Commodity_description="Sewing machines furniture needles etc and parts thereof nes" />
+<Description about="I818" Commodity_Code="7244" Commodity_description="Machines for extruding man-made textile; other textile machinery" />
+<Description about="I819" Commodity_Code="7245" Commodity_description="Weaving knitting etc machines machines for preparing yarns etc" />
+<Description about="I820" Commodity_Code="7246" Commodity_description="Auxiliary machinery for use with those of headings 72451 to 72453" />
+<Description about="I821" Commodity_Code="7247" Commodity_description="Textile machinery nes for cleaning cutting etc and parts nes" />
+<Description about="I822" Commodity_Code="7248" Commodity_description="Machinery for preparing tanning working leather etc; parts nes" />
+<Description about="I823" Commodity_Code="7251" Commodity_description="Machinery for making finishing cellulose pulp paper or paperboard" />
+<Description about="I824" Commodity_Code="7252" Commodity_description="Machinery for making paper pulp paper paperboard; cutting machines" />
+<Description about="I825" Commodity_Code="7259" Commodity_description="Parts nes of the machines falling within heading 725" />
+<Description about="I826" Commodity_Code="7263" Commodity_description="Machinery accessories for type-setting for printing blocks etc" />
+<Description about="I827" Commodity_Code="7264" Commodity_description="Printing presses" />
+<Description about="I828" Commodity_Code="7267" Commodity_description="Other printing machinery; machines for uses ancilliary to printing" />
+<Description about="I829" Commodity_Code="7268" Commodity_description="Bookbinding machinery; parts thereof nes" />
+<Description about="I830" Commodity_Code="7269" Commodity_description="Parts nes of machines falling within headings 72631 7264 7267" />
+<Description about="I831" Commodity_Code="7271" Commodity_description="Machinery for the grain milling industry; working cereals parts" />
+<Description about="I832" Commodity_Code="7272" Commodity_description="Other food-processing machinery and parts thereof nes" />
+<Description about="I833" Commodity_Code="7281" Commodity_description="Machine-tools for specialized industries; parts or accessories nes" />
+<Description about="I834" Commodity_Code="7283" Commodity_description="Other mineral working machinery; and parts thereof nes" />
+<Description about="I835" Commodity_Code="7284" Commodity_description="Machinery for specialized industries and parts thereof nes" />
+<Description about="I836" Commodity_Code="7361" Commodity_description="Metal cutting machine-tools" />
+<Description about="I837" Commodity_Code="7362" Commodity_description="Metal forming machine-tool" />
+<Description about="I838" Commodity_Code="7367" Commodity_description="Other machines-tools for working metal or metal carbides nes" />
+<Description about="I839" Commodity_Code="7368" Commodity_description="Work holders dividing heads for machine-tools etc; tool holders" />
+<Description about="I840" Commodity_Code="7369" Commodity_description="Parts nes of and accessories for machine-tools of heading 736" />
+<Description about="I841" Commodity_Code="7371" Commodity_description="Metallurgy and metal foundry equipment and parts thereof nes" />
+<Description about="I842" Commodity_Code="7372" Commodity_description="Rolling mills rolls therefor and parts nes of rolling mills" />
+<Description about="I843" Commodity_Code="7373" Commodity_description="Welding brazing cutting etc machines and appliances parts nes" />
+<Description about="I844" Commodity_Code="7411" Commodity_description="Gas generators and parts nes of gas generators" />
+<Description about="I845" Commodity_Code="7412" Commodity_description="Furnace burners; mechanical stokers etc and parts thereof nes" />
+<Description about="I846" Commodity_Code="7413" Commodity_description="Industrial and laboratory furnaces and ovens etc parts nes" />
+<Description about="I847" Commodity_Code="7414" Commodity_description="Non-domestic refrigerators and refrigerating equipment parts nes" />
+<Description about="I848" Commodity_Code="7415" Commodity_description="Air conditioning machines and parts thereof nes" />
+<Description about="I849" Commodity_Code="7416" Commodity_description="Machinery plant laboratory equipment for heating and cooling nes" />
+<Description about="I850" Commodity_Code="7421" Commodity_description="Reciprocating pumps (other than those of heading 74281)" />
+<Description about="I851" Commodity_Code="7422" Commodity_description="Centrifugal pumps (other than those of heading 74281)" />
+<Description about="I852" Commodity_Code="7423" Commodity_description="Rotary pumps (other than those of heading 74281)" />
+<Description about="I853" Commodity_Code="7428" Commodity_description="Other pumps for liquids and liquid elevators" />
+<Description about="I854" Commodity_Code="7429" Commodity_description="Parts nes of pumps and liquids elevators falling in heading 742" />
+<Description about="I855" Commodity_Code="7431" Commodity_description="Air pumps vacuum pumps and air or gas compressors" />
+<Description about="I856" Commodity_Code="7432" Commodity_description="Parts nes of the pumps and compressor falling within heading 7431" />
+<Description about="I857" Commodity_Code="7433" Commodity_description="Free-piston generators for gas turbines and parts thereof nes" />
+<Description about="I858" Commodity_Code="7434" Commodity_description="Fans blowers and the like and parts thereof nes" />
+<Description about="I859" Commodity_Code="7435" Commodity_description="Centrifuges" />
+<Description about="I860" Commodity_Code="7436" Commodity_description="Filtering and purifying machinery apparatus for liquids and gases" />
+<Description about="I861" Commodity_Code="7439" Commodity_description="Parts nes of the machines falling within headings 7435 and 7436" />
+<Description about="I862" Commodity_Code="7441" Commodity_description="Work trucks of the type use in factories dock areas etc" />
+<Description about="I863" Commodity_Code="7442" Commodity_description="Lifting handling loading machinery telphers and conveyors" />
+<Description about="I864" Commodity_Code="7449" Commodity_description="Parts nes of the machinery falling within heading 7442" />
+<Description about="I865" Commodity_Code="7451" Commodity_description="Power hand tools pneumatic or non-electric and parts thereof nes" />
+<Description about="I866" Commodity_Code="7452" Commodity_description="Other non-electrical machines and parts thereof nes" />
+<Description about="I867" Commodity_Code="7491" Commodity_description="Ball roller or needle roller bearings" />
+<Description about="I868" Commodity_Code="7492" Commodity_description="Cocks valves and similar appliances for pipes boiler shells etc" />
+<Description about="I869" Commodity_Code="7493" Commodity_description="Shaft crank bearing housing pulley and pulley blocks etc" />
+<Description about="I870" Commodity_Code="7499" Commodity_description="Other non-electric parts and accessories of machinery nes" />
+<Description about="I871" Commodity_Code="7511" Commodity_description="Typewriters; cheque-writing machines" />
+<Description about="I872" Commodity_Code="7512" Commodity_description="Calculating accounting cash registers ticketing etc machines" />
+<Description about="I873" Commodity_Code="7518" Commodity_description="Office machines nes" />
+<Description about="I874" Commodity_Code="7521" Commodity_description="Analogue and hybrid data processing machines" />
+<Description about="I875" Commodity_Code="7522" Commodity_description="Complete digital data processing machines" />
+<Description about="I876" Commodity_Code="7523" Commodity_description="Complete digital central processing units; digital processors" />
+<Description about="I877" Commodity_Code="7524" Commodity_description="Digital central storage units separately consigned" />
+<Description about="I878" Commodity_Code="7525" Commodity_description="Peripheral units including control and adapting units" />
+<Description about="I879" Commodity_Code="7528" Commodity_description="Off-line data processing equipment nes" />
+<Description about="I880" Commodity_Code="7591" Commodity_description="Parts nes of and accessories for machines of headings 7511 or 7518" />
+<Description about="I881" Commodity_Code="7599" Commodity_description="Parts nes of and accessories for machines of headings 7512 and 752" />
+<Description about="I882" Commodity_Code="7611" Commodity_description="Television receivers colour" />
+<Description about="I883" Commodity_Code="7612" Commodity_description="Television receivers monochrome" />
+<Description about="I884" Commodity_Code="7621" Commodity_description="Radio receivers for motor-vehicles" />
+<Description about="I885" Commodity_Code="7622" Commodity_description="Portable radio receivers" />
+<Description about="I886" Commodity_Code="7628" Commodity_description="Other radio receivers" />
+<Description about="I887" Commodity_Code="7631" Commodity_description="Gramophones and record players electric" />
+<Description about="I888" Commodity_Code="7638" Commodity_description="Other sound recording and reproducer nes; video recorders" />
+<Description about="I889" Commodity_Code="7641" Commodity_description="Electrical line telephonic and telegraphic apparatus" />
+<Description about="I890" Commodity_Code="7642" Commodity_description="Microphones; loud-speakers; audio-frequency electric amplifiers" />
+<Description about="I891" Commodity_Code="7643" Commodity_description="Television radio-broadcasting; transmitters etc" />
+<Description about="I892" Commodity_Code="7648" Commodity_description="Telecommunications equipment nes" />
+<Description about="I893" Commodity_Code="7649" Commodity_description="Parts nes of and accessories for apparatus falling in heading 76" />
+<Description about="I894" Commodity_Code="7711" Commodity_description="Transformers electrical" />
+<Description about="I895" Commodity_Code="7712" Commodity_description="Other electric power machinery parts nes" />
+<Description about="I896" Commodity_Code="7721" Commodity_description="Switches relays fuses etc; switchboards and control panels nes" />
+<Description about="I897" Commodity_Code="7722" Commodity_description="Printed circuits and parts thereof nes" />
+<Description about="I898" Commodity_Code="7723" Commodity_description="Fixed variable resistors other than heating resistors parts nes" />
+<Description about="I899" Commodity_Code="7731" Commodity_description="Insulated electric wire cable bars etc" />
+<Description about="I900" Commodity_Code="7732" Commodity_description="Electrical insulating equipment" />
+<Description about="I901" Commodity_Code="7741" Commodity_description="Electro-medical equipment" />
+<Description about="I902" Commodity_Code="7742" Commodity_description="X-ray apparatus and equipment; accessories; and parts nes" />
+<Description about="I903" Commodity_Code="7751" Commodity_description="Household laundry equipment nes" />
+<Description about="I904" Commodity_Code="7752" Commodity_description="Domestic refrigerators and freezers" />
+<Description about="I905" Commodity_Code="7753" Commodity_description="Domestic dishwashing machines" />
+<Description about="I906" Commodity_Code="7754" Commodity_description="Electric shavers and hair clippers parts thereof nes" />
+<Description about="I907" Commodity_Code="7757" Commodity_description="Domestic electro-mechanical appliances; and parts thereof nes" />
+<Description about="I908" Commodity_Code="7758" Commodity_description="Electro-thermic appliances nes" />
+<Description about="I909" Commodity_Code="7761" Commodity_description="Television picture tubes cathode ray" />
+<Description about="I910" Commodity_Code="7762" Commodity_description="Other electronic valves and tubes" />
+<Description about="I911" Commodity_Code="7763" Commodity_description="Diodes transistors photocells etc" />
+<Description about="I912" Commodity_Code="7764" Commodity_description="Electronic microcircuits" />
+<Description about="I913" Commodity_Code="7768" Commodity_description="Crystals and parts nes of electronic components of heading 776" />
+<Description about="I914" Commodity_Code="7781" Commodity_description="Batteries and electric accumulators and parts thereof nes" />
+<Description about="I915" Commodity_Code="7782" Commodity_description="Electric filament lamps and discharge lamps; arc-lamps" />
+<Description about="I916" Commodity_Code="7783" Commodity_description="Automotive electrical equipment; and parts thereof nes" />
+<Description about="I917" Commodity_Code="7784" Commodity_description="Electro-mechanical hand tools and parts thereof nes" />
+<Description about="I918" Commodity_Code="7788" Commodity_description="Other electrical machinery and equipment nes" />
+<Description about="I919" Commodity_Code="7810" Commodity_description="Passenger motor vehicles (excluding buses)" />
+<Description about="I920" Commodity_Code="7821" Commodity_description="Motor vehicles for the transport of goods or materials" />
+<Description about="I921" Commodity_Code="7822" Commodity_description="Special purpose motor lorries and vans" />
+<Description about="I922" Commodity_Code="7831" Commodity_description="Public service type passenger motor vehicles" />
+<Description about="I923" Commodity_Code="7832" Commodity_description="Road tractors for semi-trailers" />
+<Description about="I924" Commodity_Code="7841" Commodity_description="Chassis fitted with engines for vehicles of headings 722 781-783" />
+<Description about="I925" Commodity_Code="7842" Commodity_description="Bodies for vehicles of headings 722 781-783" />
+<Description about="I926" Commodity_Code="7849" Commodity_description="Other parts and accessories for vehicles of headings 722 781-783" />
+<Description about="I927" Commodity_Code="7851" Commodity_description="Motorcycles auto-cycles; side-cars of all kind etc" />
+<Description about="I928" Commodity_Code="7852" Commodity_description="Cycles not motorized" />
+<Description about="I929" Commodity_Code="7853" Commodity_description="Invalid carriages; parts nes of articles of heading 785" />
+<Description about="I930" Commodity_Code="7861" Commodity_description="Trailers and transports containers" />
+<Description about="I931" Commodity_Code="7868" Commodity_description="Other not mechanically propelled vehicles; and parts nes" />
+<Description about="I932" Commodity_Code="7911" Commodity_description="Rail locomotives electric" />
+<Description about="I933" Commodity_Code="7912" Commodity_description="Other rail locomotives; tenders" />
+<Description about="I934" Commodity_Code="7913" Commodity_description="Mechanically propelled railway tramway trolleys etc" />
+<Description about="I935" Commodity_Code="7914" Commodity_description="Railway tramway passenger coaches etc not mechanically propelled" />
+<Description about="I936" Commodity_Code="7915" Commodity_description="Railway and tramway freight etc not mechanically propelled" />
+<Description about="I937" Commodity_Code="7919" Commodity_description="Railway track fixtures and fittings etc parts nes of heading 791" />
+<Description about="I938" Commodity_Code="7921" Commodity_description="Helicopters" />
+<Description about="I939" Commodity_Code="7922" Commodity_description="Aircraft of an unladen weight not exceeding 2000 kg" />
+<Description about="I940" Commodity_Code="7923" Commodity_description="Aircraft of an unladen weight from 2000 kg to 15000 kg" />
+<Description about="I941" Commodity_Code="7924" Commodity_description="Aircraft of an unladen weight exceeding 15000 kg" />
+<Description about="I942" Commodity_Code="7928" Commodity_description="Aircraft nes and associated equipment" />
+<Description about="I943" Commodity_Code="7929" Commodity_description="Parts nes of the aircraft of heading 792" />
+<Description about="I944" Commodity_Code="7931" Commodity_description="Warships" />
+<Description about="I945" Commodity_Code="7932" Commodity_description="Ships boats and other vessels" />
+<Description about="I946" Commodity_Code="7933" Commodity_description="Ships boats and other vessels for breaking up" />
+<Description about="I947" Commodity_Code="7938" Commodity_description="Tugs special purpose vessels and floating structures" />
+<Description about="I948" Commodity_Code="8121" Commodity_description="Central heating equipment not electrically heated parts nes" />
+<Description about="I949" Commodity_Code="8122" Commodity_description="Ceramic plumbing fixtures" />
+<Description about="I950" Commodity_Code="8124" Commodity_description="Lighting fixture and fittings lamps lanterns and parts nes" />
+<Description about="I951" Commodity_Code="8211" Commodity_description="Chairs and other seats; and parts thereof nes" />
+<Description about="I952" Commodity_Code="8212" Commodity_description="Furniture for medical surgical dental or veterinary practice" />
+<Description about="I953" Commodity_Code="8219" Commodity_description="Other furniture and parts thereof nes" />
+<Description about="I954" Commodity_Code="8310" Commodity_description="Travel goods handbags etc of leather plastics textile others" />
+<Description about="I955" Commodity_Code="8421" Commodity_description="overcoats and other coats" />
+<Description about="I956" Commodity_Code="8422" Commodity_description="suits" />
+<Description about="I957" Commodity_Code="8423" Commodity_description="trousers breeches and the like" />
+<Description about="I958" Commodity_Code="8424" Commodity_description="jackets blazers and the like" />
+<Description about="I959" Commodity_Code="8429" Commodity_description="other outer garments" />
+<Description about="I960" Commodity_Code="8431" Commodity_description="coats and jackets" />
+<Description about="I961" Commodity_Code="8432" Commodity_description="suits and costumes" />
+<Description about="I962" Commodity_Code="8433" Commodity_description=" dresses" />
+<Description about="I963" Commodity_Code="8434" Commodity_description=" skirts" />
+<Description about="I964" Commodity_Code="8435" Commodity_description=" blouses" />
+<Description about="I965" Commodity_Code="8439" Commodity_description=" other outer garments of textile fabrics not knitted crocheted" />
+<Description about="I966" Commodity_Code="8441" Commodity_description=" mens and boys shirts" />
+<Description about="I967" Commodity_Code="8442" Commodity_description=" mens boys under garments; other than shirts" />
+<Description about="I968" Commodity_Code="8443" Commodity_description=" womens girls infants under garments textile not knitted etc" />
+<Description about="I969" Commodity_Code="8451" Commodity_description=" jerseys pullovers slip-overs cardigans etc" />
+<Description about="I970" Commodity_Code="8452" Commodity_description=" womens girls infants suits dresses etc knitted crocheted" />
+<Description about="I971" Commodity_Code="8459" Commodity_description=" other clothing accessories non-elastic knitted or crocheted" />
+<Description about="I972" Commodity_Code="8461" Commodity_description=" of wool or fine animal hair not elastic nor rubberized" />
+<Description about="I973" Commodity_Code="8462" Commodity_description=" of cotton not elastic nor rubberized" />
+<Description about="I974" Commodity_Code="8463" Commodity_description=" of synthetic fibres not elastic nor rubberized" />
+<Description about="I975" Commodity_Code="8464" Commodity_description=" of other fibres not elastic nor rubberized" />
+<Description about="I976" Commodity_Code="8465" Commodity_description="Corsets garters etc not knitted or crocheted elastic or not" />
+<Description about="I977" Commodity_Code="8471" Commodity_description="Clothing accessories of textile fabrics not knitted or crocheted" />
+<Description about="I978" Commodity_Code="8472" Commodity_description="Clothing accessories knitted or crocheted nes" />
+<Description about="I979" Commodity_Code="8481" Commodity_description="Articles of apparel clothing accessories of leather" />
+<Description about="I980" Commodity_Code="8482" Commodity_description="Articles of apparel clothing accessories of plastic or rubber" />
+<Description about="I981" Commodity_Code="8483" Commodity_description="Fur clothing (not headgear) and other articles made of furskins" />
+<Description about="I982" Commodity_Code="8484" Commodity_description="Headgear and fitting thereof nes" />
+<Description about="I983" Commodity_Code="8510" Commodity_description="Footwear" />
+<Description about="I984" Commodity_Code="8710" Commodity_description="Optical instruments and apparatus" />
+<Description about="I985" Commodity_Code="8720" Commodity_description="Medical instruments and appliances nes" />
+<Description about="I986" Commodity_Code="8731" Commodity_description="Gas liquid and electricity supply or production meters; etc" />
+<Description about="I987" Commodity_Code="8732" Commodity_description="Counting devices non-electrical; stroboscopes" />
+<Description about="I988" Commodity_Code="8741" Commodity_description="Surveying navigational compasses etc instruments nonelectrical" />
+<Description about="I989" Commodity_Code="8742" Commodity_description="Drawing marking-out and mathematical calculating instruments etc" />
+<Description about="I990" Commodity_Code="8743" Commodity_description="Gas liquid control instruments and apparatus non-electrical" />
+<Description about="I991" Commodity_Code="8744" Commodity_description="Nonmechanical or electrical instruments for physical etc analysis" />
+<Description about="I992" Commodity_Code="8745" Commodity_description="Measuring controlling and scientific instruments nes" />
+<Description about="I993" Commodity_Code="8748" Commodity_description="Electrical measuring controlling etc instruments apparatus nes" />
+<Description about="I994" Commodity_Code="8749" Commodity_description="Parts nes and accessories of headings 873 8743 87454 or 8748" />
+<Description about="I995" Commodity_Code="8811" Commodity_description="Photographic cameras flashlight apparatus parts accessories nes" />
+<Description about="I996" Commodity_Code="8812" Commodity_description="Cinematographic cameras projectors etc parts accessories nes" />
+<Description about="I997" Commodity_Code="8813" Commodity_description="Photographic and cinematographic apparatus and equipment nes" />
+<Description about="I998" Commodity_Code="8821" Commodity_description="Chemical products and flashlight materials for use in photografy" />
+<Description about="I999" Commodity_Code="8822" Commodity_description="Photographic film plates and paper (other than cinematograph film)" />
+<Description about="I1000" Commodity_Code="8830" Commodity_description="Cinematograph film exposed and developed" />
+<Description about="I1001" Commodity_Code="8841" Commodity_description="Lenses and other optical elements of any material" />
+<Description about="I1002" Commodity_Code="8842" Commodity_description="Spectacles and spectacle frames" />
+<Description about="I1003" Commodity_Code="8851" Commodity_description="Watches watch movements and case" />
+<Description about="I1004" Commodity_Code="8852" Commodity_description="Clocks clock movements and parts" />
+<Description about="I1005" Commodity_Code="8921" Commodity_description="Printed books pamphlets maps and globes" />
+<Description about="I1006" Commodity_Code="8922" Commodity_description="Newspapers journals and periodicals" />
+<Description about="I1007" Commodity_Code="8924" Commodity_description="Picture postcards decalcomanias etc printed" />
+<Description about="I1008" Commodity_Code="8928" Commodity_description="Printed matter nes" />
+<Description about="I1009" Commodity_Code="8931" Commodity_description="Plastic packing containers lids stoppers and other closures" />
+<Description about="I1010" Commodity_Code="8932" Commodity_description="Plastic sanitary and toilet articles" />
+<Description about="I1011" Commodity_Code="8933" Commodity_description="Personal adornments and ornaments articles of plastic" />
+<Description about="I1012" Commodity_Code="8935" Commodity_description="Articles of electric lighting of plastic" />
+<Description about="I1013" Commodity_Code="8939" Commodity_description="Miscellaneous articles of plastic" />
+<Description about="I1014" Commodity_Code="8941" Commodity_description="Baby carriages and parts thereof nes" />
+<Description about="I1015" Commodity_Code="8942" Commodity_description="Children's toys indoor games etc" />
+<Description about="I1016" Commodity_Code="8946" Commodity_description="Non-military arms and ammunition therefor" />
+<Description about="I1017" Commodity_Code="8947" Commodity_description="Other sporting goods and fairground amusements etc" />
+<Description about="I1018" Commodity_Code="8951" Commodity_description="Office and stationary supplies of base metal" />
+<Description about="I1019" Commodity_Code="8952" Commodity_description="Pens pencils and fountain pens" />
+<Description about="I1020" Commodity_Code="8959" Commodity_description="Other office and stationary supplies" />
+<Description about="I1021" Commodity_Code="8960" Commodity_description="Works of art collectors' pieces and antiques" />
+<Description about="I1022" Commodity_Code="8972" Commodity_description="Imitation jewellery" />
+<Description about="I1023" Commodity_Code="8973" Commodity_description="Precious jewellery goldsmiths' or silversmiths' wares" />
+<Description about="I1024" Commodity_Code="8974" Commodity_description="Other articles of precious metals or rolled precious metals nes" />
+<Description about="I1025" Commodity_Code="8981" Commodity_description="Pianos other string musical instruments" />
+<Description about="I1026" Commodity_Code="8982" Commodity_description="Musical instruments nes" />
+<Description about="I1027" Commodity_Code="8983" Commodity_description="Sound recording tape discs" />
+<Description about="I1028" Commodity_Code="8989" Commodity_description="Parts nes of and accessories for musical instruments; metronomes" />
+<Description about="I1029" Commodity_Code="8991" Commodity_description="Articles and manufacture of carving moulding materials nes" />
+<Description about="I1030" Commodity_Code="8993" Commodity_description="Candles matches combustible products etc" />
+<Description about="I1031" Commodity_Code="8994" Commodity_description="Umbrellas canes and similar articles and parts thereof" />
+<Description about="I1032" Commodity_Code="8996" Commodity_description="Orthopaedic appliances hearing aids artificial parts of the body" />
+<Description about="I1033" Commodity_Code="8997" Commodity_description="Basketwork wickerwork; brooms paint rollers etc" />
+<Description about="I1034" Commodity_Code="8998" Commodity_description="Small-wares and toilet articles nes; sieves; tailors' dummies etc" />
+<Description about="I1035" Commodity_Code="8999" Commodity_description="Manufactured goods nes" />
+<Description about="I1036" Commodity_Code="9110" Commodity_description="Postal packages not classified according to kind" />
+<Description about="I1037" Commodity_Code="9310" Commodity_description="Special transactions commodity not classified according to class" />
+<Description about="I1038" Commodity_Code="9410" Commodity_description="Animals live nes (including zoo animals pets insects etc)" />
+<Description about="I1039" Commodity_Code="9510" Commodity_description="Armoured fighting vehicles war firearms ammunition parts nes" />
+<Description about="I1040" Commodity_Code="9610" Commodity_description="Coin (other than gold coin) not being legal tender" />
+<Description about="I1041" Commodity_Code="9710" Commodity_description="Gold non-monetary (excluding gold ores and concentrates)" />
+</rdf:RDF>

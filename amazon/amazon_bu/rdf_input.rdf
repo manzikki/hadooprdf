@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:a='http://www.example.org/'>
+<Description about="C0" Continent="South America" />
+<Description about="C1" Continent="Asia" />
+<Description about="C2" Continent="Africa" />
+<Description about="C3" Continent="North America" />
+<Description about="C4" Continent="Europe" />
+<Description about="I0" CountryName="Aruba" ISO3digit="ABW" Continent="South America" />
+<Description about="I1" CountryName="Afghanistan" ISO3digit="AFG" Continent="Asia" />
+<Description about="I2" CountryName="Angola" ISO3digit="AGO" Continent="Africa" />
+<Description about="I3" CountryName="Anguilla" ISO3digit="AIA" Continent="North America" />
+<Description about="I4" CountryName="Albania" ISO3digit="ALB" Continent="Europe" />
+<Description about="I5" CountryName="Andorra" ISO3digit="AND" Continent="Europe" />
+<Description about="I6" CountryName="Neth. Antilles" ISO3digit="ANT" Continent="North America" />
+<Description about="I7" CountryName="United Arab Emirates" ISO3digit="ARE" Continent="Asia" />
+<Description about="I8" CountryName="Argentina" ISO3digit="ARG" Continent="South America" />
+<Description about="I9" CountryName="Armenia" ISO3digit="ARM" Continent="Europe" />

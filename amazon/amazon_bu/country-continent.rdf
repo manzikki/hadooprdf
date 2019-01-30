@@ -1,0 +1,261 @@
+<?xml version='1.0'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:a='http://www.example.org/' xml:base='http://www.example.org/'>
+    <Description about="I0" CountryName="Aruba" ISO3digit="ABW" Continent="South_America" />
+<Description about="I1" CountryName="Afghanistan" ISO3digit="AFG" Continent="Asia" />
+<Description about="I2" CountryName="Angola" ISO3digit="AGO" Continent="Africa" />
+<Description about="I3" CountryName="Anguilla" ISO3digit="AIA" Continent="North_America" />
+<Description about="I4" CountryName="Albania" ISO3digit="ALB" Continent="Europe" />
+<Description about="I5" CountryName="Andorra" ISO3digit="AND" Continent="Europe" />
+<Description about="I6" CountryName="Neth. Antilles" ISO3digit="ANT" Continent="North_America" />
+<Description about="I7" CountryName="United Arab Emirates" ISO3digit="ARE" Continent="Asia" />
+<Description about="I8" CountryName="Argentina" ISO3digit="ARG" Continent="South_America" />
+<Description about="I9" CountryName="Armenia" ISO3digit="ARM" Continent="Europe" />
+<Description about="I10" CountryName="American Samoa" ISO3digit="ASM" Continent="Oceania" />
+<Description about="I11" CountryName="Antarctica" ISO3digit="ATA" Continent="Antarctica" />
+<Description about="I12" CountryName="Fr. South Antarctic Terr." ISO3digit="ATF" Continent="Antarctica" />
+<Description about="I13" CountryName="Antigua and Barbuda" ISO3digit="ATG" Continent="North_America" />
+<Description about="I14" CountryName="Australia" ISO3digit="AUS" Continent="Australia" />
+<Description about="I15" CountryName="Austria" ISO3digit="AUT" Continent="Europe" />
+<Description about="I16" CountryName="Azerbaijan" ISO3digit="AZE" Continent="Asia" />
+<Description about="I17" CountryName="Burundi" ISO3digit="BDI" Continent="Africa" />
+<Description about="I18" CountryName="Belgium" ISO3digit="BEL" Continent="Europe" />
+<Description about="I19" CountryName="Benin" ISO3digit="BEN" Continent="Africa" />
+<Description about="I20" CountryName="Burkina Faso" ISO3digit="BFA" Continent="Africa" />
+<Description about="I21" CountryName="Bangladesh" ISO3digit="BGD" Continent="Asia" />
+<Description about="I22" CountryName="Bulgaria" ISO3digit="BGR" Continent="Europe" />
+<Description about="I23" CountryName="Bahrain" ISO3digit="BHR" Continent="Asia" />
+<Description about="I24" CountryName="Bahamas" ISO3digit="BHS" Continent="North_America" />
+<Description about="I25" CountryName="Bosnia Herzegovina" ISO3digit="BIH" Continent="Europe" />
+<Description about="I26" CountryName="Belarus" ISO3digit="BLR" Continent="Europe" />
+<Description about="I27" CountryName="Belize" ISO3digit="BLZ" Continent="North_America" />
+<Description about="I28" CountryName="Bermuda" ISO3digit="BMU" Continent="North_America" />
+<Description about="I29" CountryName="Bolivia" ISO3digit="BOL" Continent="South_America" />
+<Description about="I30" CountryName="Brazil" ISO3digit="BRA" Continent="South_America" />
+<Description about="I31" CountryName="Barbados" ISO3digit="BRB" Continent="North_America" />
+<Description about="I32" CountryName="Brunei Darussalam" ISO3digit="BRN" Continent="Asia" />
+<Description about="I33" CountryName="Bhutan" ISO3digit="BTN" Continent="Asia" />
+<Description about="I34" CountryName="Bouvet Island" ISO3digit="BVT" Continent="Antarctica" />
+<Description about="I35" CountryName="Botswana" ISO3digit="BWA" Continent="Africa" />
+<Description about="I36" CountryName="Central African Rep." ISO3digit="CAF" Continent="Africa" />
+<Description about="I37" CountryName="Canada" ISO3digit="CAN" Continent="North_America" />
+<Description about="I38" CountryName="Cocos Isds" ISO3digit="CCK" Continent="Australia" />
+<Description about="I39" CountryName="Switzerland" ISO3digit="CHE" Continent="Europe" />
+<Description about="I40" CountryName="Chile" ISO3digit="CHL" Continent="South_America" />
+<Description about="I41" CountryName="China" ISO3digit="CHN" Continent="Asia" />
+<Description about="I42" CountryName="Cote d'Ivoire" ISO3digit="CIV" Continent="Africa" />
+<Description about="I43" CountryName="Cameroon" ISO3digit="CMR" Continent="Africa" />
+<Description about="I44" CountryName="Dem. Rep. of the Congo" ISO3digit="COD" Continent="Africa" />
+<Description about="I45" CountryName="Congo" ISO3digit="COG" Continent="Africa" />
+<Description about="I46" CountryName="Cook Isds" ISO3digit="COK" Continent="Oceania" />
+<Description about="I47" CountryName="Colombia" ISO3digit="COL" Continent="South_America" />
+<Description about="I48" CountryName="Comoros" ISO3digit="COM" Continent="Africa" />
+<Description about="I49" CountryName="Cape Verde" ISO3digit="CPV" Continent="Europe" />
+<Description about="I50" CountryName="Costa Rica" ISO3digit="CRI" Continent="South_America" />
+<Description about="I51" CountryName="Czechoslovakia" ISO3digit="CSK" Continent="Europe" />
+<Description about="I52" CountryName="Cuba" ISO3digit="CUB" Continent="North_America" />
+<Description about="I53" CountryName="Curacao" ISO3digit="CUW" Continent="South_America" />
+<Description about="I54" CountryName="Christmas Isds" ISO3digit="CXR" Continent="Asia" />
+<Description about="I55" CountryName="Cayman Isds" ISO3digit="CYM" Continent="North_America" />
+<Description about="I56" CountryName="Cyprus" ISO3digit="CYP" Continent="Europe" />
+<Description about="I57" CountryName="Czech Rep." ISO3digit="CZE" Continent="Europe" />
+<Description about="I58" CountryName="Fmr Dem. Rep. of Germany" ISO3digit="DDR" Continent="Europe" />
+<Description about="I59" CountryName="Fmr Fed. Rep. of Germany" ISO3digit="DEU" Continent="Europe" />
+<Description about="I60" CountryName="Djibouti" ISO3digit="DJI" Continent="Africa" />
+<Description about="I61" CountryName="Dominica" ISO3digit="DMA" Continent="North_America" />
+<Description about="I62" CountryName="Denmark" ISO3digit="DNK" Continent="Europe" />
+<Description about="I63" CountryName="Dominican Rep." ISO3digit="DOM" Continent="North_America" />
+<Description about="I64" CountryName="Algeria" ISO3digit="DZA" Continent="Africa" />
+<Description about="I65" CountryName="Ecuador" ISO3digit="ECU" Continent="South_America" />
+<Description about="I66" CountryName="Egypt" ISO3digit="EGY" Continent="Africa" />
+<Description about="I67" CountryName="Eritrea" ISO3digit="ERI" Continent="Africa" />
+<Description about="I68" CountryName="Western Sahara" ISO3digit="ESH" Continent="Africa" />
+<Description about="I69" CountryName="Spain" ISO3digit="ESP" Continent="Europe" />
+<Description about="I70" CountryName="Estonia" ISO3digit="EST" Continent="Europe" />
+<Description about="I71" CountryName="Ethiopia" ISO3digit="ETH" Continent="Africa" />
+<Description about="I72" CountryName="EU-27" ISO3digit="EU2" Continent="Europe" />
+<Description about="I73" CountryName="Finland" ISO3digit="FIN" Continent="Europe" />
+<Description about="I74" CountryName="Fiji" ISO3digit="FJI" Continent="Oceania" />
+<Description about="I75" CountryName="Falkland Isds (Malvinas)" ISO3digit="FLK" Continent="South_America" />
+<Description about="I76" CountryName="France" ISO3digit="FRA" Continent="Europe" />
+<Description about="I77" CountryName="Faeroe Isds" ISO3digit="FRO" Continent="Europe" />
+<Description about="I78" CountryName="French St. Martin" ISO3digit="MAF" Continent="South_America" />
+<Description about="I79" CountryName="FS Micronesia" ISO3digit="FSM" Continent="Oceania" />
+<Description about="I80" CountryName="Gabon" ISO3digit="GAB" Continent="Africa" />
+<Description about="I81" CountryName="United Kingdom" ISO3digit="GBR" Continent="Europe" />
+<Description about="I82" CountryName="Georgia" ISO3digit="GEO" Continent="Asia" />
+<Description about="I83" CountryName="Ghana" ISO3digit="GHA" Continent="Africa" />
+<Description about="I84" CountryName="Gibraltar" ISO3digit="GIB" Continent="Europe" />
+<Description about="I85" CountryName="Guinea" ISO3digit="GIN" Continent="Africa" />
+<Description about="I86" CountryName="Guadeloupe" ISO3digit="GLP" Continent="North_America" />
+<Description about="I87" CountryName="Guernsey" ISO3digit="GGY" Continent="Europe" />
+<Description about="I88" CountryName="Gambia" ISO3digit="GMB" Continent="Africa" />
+<Description about="I89" CountryName="Guinea-Bissau" ISO3digit="GNB" Continent="Africa" />
+<Description about="I90" CountryName="Equatorial Guinea" ISO3digit="GNQ" Continent="Africa" />
+<Description about="I91" CountryName="Greece" ISO3digit="GRC" Continent="Europe" />
+<Description about="I92" CountryName="Grenada" ISO3digit="GRD" Continent="North_America" />
+<Description about="I93" CountryName="Greenland" ISO3digit="GRL" Continent="North_America" />
+<Description about="I94" CountryName="Guatemala" ISO3digit="GTM" Continent="North_America" />
+<Description about="I95" CountryName="French Guiana" ISO3digit="GUF" Continent="South_America" />
+<Description about="I96" CountryName="Guam" ISO3digit="GUM" Continent="Asia" />
+<Description about="I97" CountryName="Guyana" ISO3digit="GUY" Continent="South_America" />
+<Description about="I98" CountryName="China Hong Kong SAR" ISO3digit="HKG" Continent="Asia" />
+<Description about="I99" CountryName="Heard Island and McDonald Islands" ISO3digit="HMD" Continent="Antarctica" />
+<Description about="I100" CountryName="Honduras" ISO3digit="HND" Continent="North_America" />
+<Description about="I101" CountryName="Croatia" ISO3digit="HRV" Continent="Europe" />
+<Description about="I102" CountryName="Haiti" ISO3digit="HTI" Continent="North_America" />
+<Description about="I103" CountryName="Hungary" ISO3digit="HUN" Continent="Europe" />
+<Description about="I104" CountryName="Indonesia" ISO3digit="IDN" Continent="Asia" />
+<Description about="I105" CountryName="India" ISO3digit="IND" Continent="Asia" />
+<Description about="I106" CountryName="Br. Indian Ocean Terr." ISO3digit="IOT" Continent="Asia" />
+<Description about="I107" CountryName="Ireland" ISO3digit="IRL" Continent="Europe" />
+<Description about="I108" CountryName="Iran" ISO3digit="IRN" Continent="Asia" />
+<Description about="I109" CountryName="Iraq" ISO3digit="IRQ" Continent="Asia" />
+<Description about="I110" CountryName="Isle of Man" ISO3digit="IMN" Continent="Europe" />
+<Description about="I111" CountryName="Iceland" ISO3digit="ISL" Continent="Asia" />
+<Description about="I112" CountryName="Israel" ISO3digit="ISR" Continent="Asia" />
+<Description about="I113" CountryName="Italy" ISO3digit="ITA" Continent="Europe" />
+<Description about="I114" CountryName="Jamaica" ISO3digit="JAM" Continent="North_America" />
+<Description about="I115" CountryName="Jordan" ISO3digit="JOR" Continent="Asia" />
+<Description about="I116" CountryName="Japan" ISO3digit="JPN" Continent="Asia" />
+<Description about="I117" CountryName="Jersey" ISO3digit="JEY" Continent="Europe" />
+<Description about="I118" CountryName="Kazakhstan" ISO3digit="KAZ" Continent="Asia" />
+<Description about="I119" CountryName="Kenya" ISO3digit="KEN" Continent="Africa" />
+<Description about="I120" CountryName="Kosovo" ISO3digit="UNK" Continent="Europe" />
+<Description about="I121" CountryName="Kyrgyzstan" ISO3digit="KGZ" Continent="Asia" />
+<Description about="I122" CountryName="Cambodia" ISO3digit="KHM" Continent="Asia" />
+<Description about="I123" CountryName="Kiribati" ISO3digit="KIR" Continent="Oceania" />
+<Description about="I124" CountryName="Saint Kitts and Nevis" ISO3digit="KNA" Continent="North_America" />
+<Description about="I125" CountryName="Rep. of Korea" ISO3digit="KOR" Continent="Asia" />
+<Description about="I126" CountryName="Kuwait" ISO3digit="KWT" Continent="Asia" />
+<Description about="I127" CountryName="Lao People's Dem. Rep." ISO3digit="LAO" Continent="Asia" />
+<Description about="I128" CountryName="Lebanon" ISO3digit="LBN" Continent="Asia" />
+<Description about="I129" CountryName="Liberia" ISO3digit="LBR" Continent="Africa" />
+<Description about="I130" CountryName="Libya" ISO3digit="LBY" Continent="Africa" />
+<Description about="I131" CountryName="Liectenstein" ISO3digit="LIE" Continent="Europe" />
+<Description about="I132" CountryName="Saint Lucia" ISO3digit="LCA" Continent="North_America" />
+<Description about="I133" CountryName="Sint Maarten" ISO3digit="SXM" Continent="South_America" />
+<Description about="I134" CountryName="Sri Lanka" ISO3digit="LKA" Continent="Asia" />
+<Description about="I135" CountryName="Lesotho" ISO3digit="LSO" Continent="Africa" />
+<Description about="I136" CountryName="Lithuania" ISO3digit="LTU" Continent="Europe" />
+<Description about="I137" CountryName="Luxembourg" ISO3digit="LUX" Continent="Europe" />
+<Description about="I138" CountryName="Latvia" ISO3digit="LVA" Continent="Europe" />
+<Description about="I139" CountryName="China Macao SAR" ISO3digit="MAC" Continent="Asia" />
+<Description about="I140" CountryName="Morocco" ISO3digit="MAR" Continent="Africa" />
+<Description about="I141" CountryName="Rep. of Moldova" ISO3digit="MDA" Continent="Europe" />
+<Description about="I142" CountryName="Madagascar" ISO3digit="MDG" Continent="Africa" />
+<Description about="I143" CountryName="Maldives" ISO3digit="MDV" Continent="Asia" />
+<Description about="I144" CountryName="Mexico" ISO3digit="MEX" Continent="North_America" />
+<Description about="I145" CountryName="Marshall Isds" ISO3digit="MHL" Continent="Oceania" />
+<Description about="I146" CountryName="TFYR of Macedonia" ISO3digit="MKD" Continent="Europe" />
+<Description about="I147" CountryName="Mali" ISO3digit="MLI" Continent="Africa" />
+<Description about="I148" CountryName="Malta" ISO3digit="MLT" Continent="Europe" />
+<Description about="I149" CountryName="Myanmar" ISO3digit="MMR" Continent="Asia" />
+<Description about="I150" CountryName="Montenegro" ISO3digit="MNE" Continent="Europe" />
+<Description about="I151" CountryName="Monaco" ISO3digit="MCO" Continent="Europe" />
+<Description about="I152" CountryName="Mongolia" ISO3digit="MNG" Continent="Asia" />
+<Description about="I153" CountryName="N. Mariana Isds" ISO3digit="MNP" Continent="Oceania" />
+<Description about="I154" CountryName="Mozambique" ISO3digit="MOZ" Continent="Africa" />
+<Description about="I155" CountryName="Mauritania" ISO3digit="MRT" Continent="Africa" />
+<Description about="I156" CountryName="Montserrat" ISO3digit="MSR" Continent="North_America" />
+<Description about="I157" CountryName="Martinique" ISO3digit="MTQ" Continent="North_America" />
+<Description about="I158" CountryName="Mauritius" ISO3digit="MUS" Continent="Africa" />
+<Description about="I159" CountryName="Malawi" ISO3digit="MWI" Continent="Africa" />
+<Description about="I160" CountryName="Malaysia" ISO3digit="MYS" Continent="Asia" />
+<Description about="I161" CountryName="Mayotte" ISO3digit="MYT" Continent="Africa" />
+<Description about="I162" CountryName="Namibia" ISO3digit="NAM" Continent="Africa" />
+<Description about="I163" CountryName="New Caledonia" ISO3digit="NCL" Continent="Oceania" />
+<Description about="I164" CountryName="Niger" ISO3digit="NER" Continent="Africa" />
+<Description about="I165" CountryName="Norfolk Isds" ISO3digit="NFK" Continent="Oceania" />
+<Description about="I166" CountryName="Nigeria" ISO3digit="NGA" Continent="Africa" />
+<Description about="I167" CountryName="Nicaragua" ISO3digit="NIC" Continent="North_America" />
+<Description about="I168" CountryName="Niue" ISO3digit="NIU" Continent="Oceania" />
+<Description about="I169" CountryName="Netherlands" ISO3digit="NLD" Continent="Europe" />
+<Description about="I170" CountryName="Norway" ISO3digit="NOR" Continent="Europe" />
+<Description about="I171" CountryName="Nepal" ISO3digit="NPL" Continent="Asia" />
+<Description about="I172" CountryName="Nauru" ISO3digit="NRU" Continent="Oceania" />
+<Description about="I173" CountryName="New Zealand" ISO3digit="NZL" Continent="Oceania" />
+<Description about="I174" CountryName="Oman" ISO3digit="OMN" Continent="Asia" />
+<Description about="I175" CountryName="East and West Pakistan" ISO3digit="PAK" Continent="Asia" />
+<Description about="I176" CountryName="Fmr Panama excl.Canal Zone" ISO3digit="PAN" Continent="North_America" />
+<Description about="I177" CountryName="Fmr Pacific Isds" ISO3digit="PCI" Continent="Oceania" />
+<Description about="I178" CountryName="Pitcairn" ISO3digit="PCN" Continent="Oceania" />
+<Description about="I179" CountryName="Fmr Panama-Canal-Zone" ISO3digit="PCZ" Continent="North_America" />
+<Description about="I180" CountryName="Peru" ISO3digit="PER" Continent="South_America" />
+<Description about="I181" CountryName="Philippines" ISO3digit="PHL" Continent="Asia" />
+<Description about="I182" CountryName="Palau" ISO3digit="PLW" Continent="Oceania" />
+<Description about="I183" CountryName="Papua New Guinea" ISO3digit="PNG" Continent="Asia" />
+<Description about="I184" CountryName="Poland" ISO3digit="POL" Continent="Europe" />
+<Description about="I185" CountryName="Dem. People's Rep. of Korea" ISO3digit="PRK" Continent="Asia" />
+<Description about="I186" CountryName="Portugal" ISO3digit="PRT" Continent="Europe" />
+<Description about="I187" CountryName="Paraguay" ISO3digit="PRY" Continent="South_America" />
+<Description about="I188" CountryName="Puerto Rico" ISO3digit="PRI" Continent="North_America" />
+<Description about="I189" CountryName="Occ. Palestinian Terr." ISO3digit="PSE" Continent="Asia" />
+<Description about="I190" CountryName="French Polynesia" ISO3digit="PYF" Continent="Oceania" />
+<Description about="I191" CountryName="Qatar" ISO3digit="QAT" Continent="Asia" />
+<Description about="I192" CountryName="Reunion" ISO3digit="REU" Continent="Africa" />
+<Description about="I193" CountryName="Romania" ISO3digit="ROU" Continent="Europe" />
+<Description about="I194" CountryName="Russian Federation" ISO3digit="RUS" Continent="Europe" />
+<Description about="I195" CountryName="Rwanda" ISO3digit="RWA" Continent="Africa" />
+<Description about="I196" CountryName="Saudi Arabia" ISO3digit="SAU" Continent="Asia" />
+<Description about="I197" CountryName="Serbia and Montenegro" ISO3digit="SCG" Continent="Europe" />
+<Description about="I198" CountryName="Sudan" ISO3digit="SDN" Continent="Africa" />
+<Description about="I199" CountryName="Senegal" ISO3digit="SEN" Continent="Africa" />
+<Description about="I200" CountryName="Singapore" ISO3digit="SGP" Continent="Asia" />
+<Description about="I201" CountryName="South Georgia and the South Sandwich Islands" ISO3digit="SGS" Continent="Antarctica" />
+<Description about="I202" CountryName="Saint Helena" ISO3digit="SHN" Continent="Africa" />
+<Description about="I203" CountryName="Solomon Isds" ISO3digit="SLB" Continent="Oceania" />
+<Description about="I204" CountryName="Sierra Leone" ISO3digit="SLE" Continent="Africa" />
+<Description about="I205" CountryName="El Salvador" ISO3digit="SLV" Continent="North_America" />
+<Description about="I206" CountryName="San Marino" ISO3digit="SMR" Continent="Europe" />
+<Description about="I207" CountryName="Somalia" ISO3digit="SOM" Continent="Africa" />
+<Description about="I208" CountryName="Saint Pierre and Miquelon" ISO3digit="SPM" Continent="North_America" />
+<Description about="I209" CountryName="Serbia" ISO3digit="SRB" Continent="Europe" />
+<Description about="I210" CountryName="Sao Tome and Principe" ISO3digit="STP" Continent="Africa" />
+<Description about="I211" CountryName="Fmr USSR" ISO3digit="SUN" Continent="Europe" />
+<Description about="I212" CountryName="Suriname" ISO3digit="SUR" Continent="South_America" />
+<Description about="I213" CountryName="Slovakia" ISO3digit="SVK" Continent="Europe" />
+<Description about="I214" CountryName="Slovenia" ISO3digit="SVN" Continent="Europe" />
+<Description about="I215" CountryName="South Sudan" ISO3digit="SSD" Continent="Africa" />
+<Description about="I216" CountryName="Sweden" ISO3digit="SWE" Continent="Europe" />
+<Description about="I217" CountryName="Swaziland" ISO3digit="SWZ" Continent="Africa" />
+<Description about="I218" CountryName="Seychelles" ISO3digit="SYC" Continent="Africa" />
+<Description about="I219" CountryName="Syria" ISO3digit="SYR" Continent="Asia" />
+<Description about="I220" CountryName="Turks and Caicos Isds" ISO3digit="TCA" Continent="Oceania" />
+<Description about="I221" CountryName="Chad" ISO3digit="TCD" Continent="Africa" />
+<Description about="I222" CountryName="Togo" ISO3digit="TGO" Continent="Africa" />
+<Description about="I223" CountryName="Taiwan" ISO3digit="TWN" Continent="Asia" />
+<Description about="I224" CountryName="Thailand" ISO3digit="THA" Continent="Asia" />
+<Description about="I225" CountryName="Tajikistan" ISO3digit="TJK" Continent="Asia" />
+<Description about="I226" CountryName="Tokelau" ISO3digit="TKL" Continent="Oceania" />
+<Description about="I227" CountryName="Turkmenistan" ISO3digit="TKM" Continent="Asia" />
+<Description about="I228" CountryName="Timor-Leste" ISO3digit="TLS" Continent="Asia" />
+<Description about="I229" CountryName="Tonga" ISO3digit="TON" Continent="Africa" />
+<Description about="I230" CountryName="Trinidad and Tobago" ISO3digit="TTO" Continent="North_America" />
+<Description about="I231" CountryName="Tunisia" ISO3digit="TUN" Continent="Africa" />
+<Description about="I232" CountryName="Turkey" ISO3digit="TUR" Continent="Asia" />
+<Description about="I233" CountryName="Tuvalu" ISO3digit="TUV" Continent="Oceania" />
+<Description about="I234" CountryName="United Rep. of Tanzania" ISO3digit="TZA" Continent="Africa" />
+<Description about="I235" CountryName="Uganda" ISO3digit="UGA" Continent="Africa" />
+<Description about="I236" CountryName="Ukraine" ISO3digit="UKR" Continent="Europe" />
+<Description about="I237" CountryName="United States Minor Outlying Islands" ISO3digit="UMI" Continent="North_America" />
+<Description about="I238" CountryName="Uruguay" ISO3digit="URY" Continent="South_America" />
+<Description about="I239" CountryName="USA" ISO3digit="USA" Continent="North_America" />
+<Description about="I240" CountryName="Uzbekistan" ISO3digit="UZB" Continent="Asia" />
+<Description about="I241" CountryName="Holy See (Vatican City State)" ISO3digit="VAT" Continent="Europe" />
+<Description about="I242" CountryName="Saint Vincent and the Grenadines" ISO3digit="VCT" Continent="North_America" />
+<Description about="I243" CountryName="Fmr Dem. Rep. of Vietnam" ISO3digit="VDR" Continent="Asia" />
+<Description about="I244" CountryName="Venezuela" ISO3digit="VEN" Continent="South_America" />
+<Description about="I245" CountryName="Br. Virgin Isds" ISO3digit="VGB" Continent="North_America" />
+<Description about="I246" CountryName="US Virgin Isds" ISO3digit="VIR" Continent="North_America" />
+<Description about="I247" CountryName="Fmr Rep. of Vietnam" ISO3digit="VNM" Continent="Asia" />
+<Description about="I248" CountryName="Vanuatu" ISO3digit="VUT" Continent="Oceania" />
+<Description about="I249" CountryName="Wallis and Futuna Isds" ISO3digit="WLF" Continent="Oceania" />
+<Description about="I250" CountryName="Samoa" ISO3digit="WSM" Continent="Oceania" />
+<Description about="I251" CountryName="Fmr Arab Rep. of Yemen" ISO3digit="YEM" Continent="Asia" />
+<Description about="I252" CountryName="Fmr Dem. Yemen" ISO3digit="YMD" Continent="Asia" />
+<Description about="I253" CountryName="Fmr Yugoslavia" ISO3digit="YUG" Continent="Europe" />
+<Description about="I254" CountryName="So. African Customs Union" ISO3digit="ZAF" Continent="Africa" />
+<Description about="I255" CountryName="Zambia" ISO3digit="ZMB" Continent="Africa" />
+<Description about="I256" CountryName="Zimbabwe" ISO3digit="ZWE" Continent="Africa" />
+<Description about="I257" CountryName="Undef" ISO3digit="XXB" Continent="Undef" />
+</rdf:RDF>

@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.example.org/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.example.org/I12">
+    <ns1:Continent>Antarctica</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I41">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I100">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I110">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I20">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I124">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I163">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I94">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I45">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I6">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I46">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I51">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I175">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I192">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I219">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I227">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I27">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I154">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I244">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I195">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I1">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I142">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I115">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I101">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I23">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I9">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I177">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I97">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I176">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I0">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I54">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I136">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I194">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I61">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I87">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I150">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I248">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I234">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I31">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I128">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I112">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I222">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I70">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I60">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I251">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I62">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I129">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I16">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I239">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I132">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I82">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I246">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I233">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I162">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I178">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I91">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I119">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I218">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I188">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I245">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I174">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I3">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I160">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I69">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I114">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I133">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I140">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I211">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I2">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I5">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I216">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I38">
+    <ns1:Continent>Australia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I215">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I108">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I18">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I37">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I56">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I121">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I29">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I32">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I95">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I220">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I24">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I235">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I57">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I92">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I228">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I78">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I221">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I90">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I230">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I122">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I156">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I161">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I86">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I96">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I109">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I22">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I224">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I232">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I36">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I123">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I253">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I146">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I88">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I158">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I193">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I198">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I71">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I186">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I170">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I166">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I155">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I39">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I191">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I206">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I180">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I210">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I238">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I44">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I66">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I26">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I223">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I76">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I84">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I197">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I183">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I126">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I105">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I139">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I189">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I8">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I63">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I131">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I42">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I159">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I164">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I106">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I117">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I43">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I137">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I153">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I10">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I33">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I34">
+    <ns1:Continent>Antarctica</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I167">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I185">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I217">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I187">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I196">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I212">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I254">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I53">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I127">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I144">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I257">
+    <ns1:Continent>Undef</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I59">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I134">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I83">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I67">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I255">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I73">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I205">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I65">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I48">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I229">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I107">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I179">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I225">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I190">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I4">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I89">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I98">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I231">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I19">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I184">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I199">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I173">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I14">
+    <ns1:Continent>Australia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I68">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I111">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I148">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I236">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I240">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I118">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I93">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I55">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I169">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I21">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I213">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I151">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I241">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I202">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I138">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I242">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I58">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I72">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I181">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I203">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I149">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I17">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I28">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I204">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I172">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I208">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I250">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I77">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I201">
+    <ns1:Continent>Antarctica</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I80">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I74">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I209">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I200">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I152">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I256">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I13">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I35">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I49">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I171">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I182">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I141">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I143">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I85">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I75">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I249">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I11">
+    <ns1:Continent>Antarctica</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I113">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I99">
+    <ns1:Continent>Antarctica</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I7">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I135">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I207">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I47">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I30">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I104">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I125">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I64">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I147">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I157">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I130">
+    <ns1:Continent>Africa</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I252">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I168">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I120">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I81">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I15">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I102">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I79">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I52">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I226">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I103">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I116">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I243">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I237">
+    <ns1:Continent>North America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I165">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I50">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I247">
+    <ns1:Continent>Asia</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I214">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I40">
+    <ns1:Continent>South America</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I25">
+    <ns1:Continent>Europe</ns1:Continent>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/I145">
+    <ns1:Continent>Oceania</ns1:Continent>
+  </rdf:Description>
+</rdf:RDF>

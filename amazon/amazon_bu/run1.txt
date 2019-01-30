@@ -1,0 +1,2 @@
+Deleted /user/hadoop/trade/trade-output
+packageJobJar: [./mapper_rdf.py, ./reducer_rdf.py] [/usr/lib/hadoop/hadoop-streaming-2.8.5-amzn-1.jar] /tmp/streamjob4353785229686003777.jar tmpDir=null

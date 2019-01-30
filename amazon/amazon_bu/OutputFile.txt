@@ -1,0 +1,83 @@
+Deleted /user/hadoop/trade/trade-output
+19/01/29 21:15:09 WARN streaming.StreamJob: -file option is deprecated, please use generic option -files instead.
+packageJobJar: [./mapper_rdf.py, ./reducer_rdf.py] [/usr/lib/hadoop/hadoop-streaming-2.8.5-amzn-1.jar] /tmp/streamjob7266817065010161350.jar tmpDir=null
+19/01/29 21:15:12 INFO client.RMProxy: Connecting to ResourceManager at ip-172-31-4-96.eu-central-1.compute.internal/172.31.4.96:8032
+19/01/29 21:15:12 INFO client.RMProxy: Connecting to ResourceManager at ip-172-31-4-96.eu-central-1.compute.internal/172.31.4.96:8032
+19/01/29 21:15:13 INFO lzo.GPLNativeCodeLoader: Loaded native gpl library
+19/01/29 21:15:13 INFO lzo.LzoCodec: Successfully loaded & initialized native-lzo library [hadoop-lzo rev bab859f34a291cb7b3f4e724b59e1b48af69016b]
+19/01/29 21:15:13 INFO mapred.FileInputFormat: Total input files to process : 100
+19/01/29 21:15:14 INFO mapreduce.JobSubmitter: number of splits:100
+19/01/29 21:15:14 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1548251353302_0067
+19/01/29 21:15:14 INFO impl.YarnClientImpl: Submitted application application_1548251353302_0067
+19/01/29 21:15:15 INFO mapreduce.Job: The url to track the job: http://ip-172-31-4-96.eu-central-1.compute.internal:20888/proxy/application_1548251353302_0067/
+19/01/29 21:15:15 INFO mapreduce.Job: Running job: job_1548251353302_0067
+19/01/29 21:15:23 INFO mapreduce.Job: Job job_1548251353302_0067 running in uber mode : false
+19/01/29 21:15:23 INFO mapreduce.Job:  map 0% reduce 0%
+19/01/29 21:15:43 INFO mapreduce.Job:  map 1% reduce 0%
+19/01/29 21:15:49 INFO mapreduce.Job:  map 4% reduce 0%
+19/01/29 21:16:31 INFO mapreduce.Job:  map 5% reduce 0%
+19/01/29 21:16:49 INFO mapreduce.Job:  map 6% reduce 0%
+19/01/29 21:17:37 INFO mapreduce.Job:  map 7% reduce 0%
+19/01/29 21:17:41 INFO mapreduce.Job:  map 8% reduce 0%
+19/01/29 21:17:55 INFO mapreduce.Job:  map 9% reduce 0%
+19/01/29 21:18:03 INFO mapreduce.Job:  map 10% reduce 0%
+19/01/29 21:18:06 INFO mapreduce.Job:  map 11% reduce 0%
+19/01/29 21:18:07 INFO mapreduce.Job:  map 12% reduce 0%
+19/01/29 21:18:44 INFO mapreduce.Job:  map 13% reduce 0%
+19/01/29 21:19:03 INFO mapreduce.Job:  map 14% reduce 0%
+19/01/29 21:19:54 INFO mapreduce.Job:  map 15% reduce 0%
+19/01/29 21:19:59 INFO mapreduce.Job:  map 16% reduce 0%
+19/01/29 21:20:13 INFO mapreduce.Job:  map 17% reduce 0%
+19/01/29 21:20:20 INFO mapreduce.Job:  map 18% reduce 0%
+19/01/29 21:20:22 INFO mapreduce.Job:  map 19% reduce 0%
+19/01/29 21:20:27 INFO mapreduce.Job:  map 20% reduce 0%
+19/01/29 21:21:02 INFO mapreduce.Job:  map 21% reduce 0%
+19/01/29 21:21:20 INFO mapreduce.Job:  map 22% reduce 0%
+19/01/29 21:22:07 INFO mapreduce.Job:  map 23% reduce 0%
+19/01/29 21:22:21 INFO mapreduce.Job:  map 24% reduce 0%
+19/01/29 21:22:24 INFO mapreduce.Job:  map 25% reduce 0%
+19/01/29 21:22:40 INFO mapreduce.Job:  map 26% reduce 0%
+19/01/29 21:22:42 INFO mapreduce.Job:  map 27% reduce 0%
+19/01/29 21:22:46 INFO mapreduce.Job:  map 28% reduce 0%
+19/01/29 21:23:12 INFO mapreduce.Job:  map 29% reduce 0%
+19/01/29 21:23:31 INFO mapreduce.Job:  map 30% reduce 0%
+19/01/29 21:24:19 INFO mapreduce.Job:  map 31% reduce 0%
+19/01/29 21:24:35 INFO mapreduce.Job:  map 32% reduce 0%
+19/01/29 21:24:38 INFO mapreduce.Job:  map 33% reduce 0%
+19/01/29 21:24:56 INFO mapreduce.Job:  map 34% reduce 0%
+19/01/29 21:24:58 INFO mapreduce.Job:  map 35% reduce 0%
+19/01/29 21:25:04 INFO mapreduce.Job:  map 36% reduce 0%
+19/01/29 21:25:25 INFO mapreduce.Job:  map 37% reduce 0%
+19/01/29 21:25:43 INFO mapreduce.Job:  map 38% reduce 0%
+19/01/29 21:26:31 INFO mapreduce.Job:  map 39% reduce 0%
+19/01/29 21:26:48 INFO mapreduce.Job:  map 39% reduce 1%
+19/01/29 21:26:51 INFO mapreduce.Job:  map 40% reduce 1%
+19/01/29 21:27:11 INFO mapreduce.Job:  map 41% reduce 1%
+19/01/29 21:27:16 INFO mapreduce.Job:  map 42% reduce 1%
+19/01/29 21:27:19 INFO mapreduce.Job:  map 43% reduce 1%
+19/01/29 21:29:06 INFO mapreduce.Job:  map 43% reduce 2%
+19/01/29 21:29:07 INFO mapreduce.Job:  map 44% reduce 2%
+19/01/29 21:29:30 INFO mapreduce.Job:  map 45% reduce 2%
+19/01/29 21:29:31 INFO mapreduce.Job:  map 46% reduce 2%
+19/01/29 21:29:34 INFO mapreduce.Job:  map 47% reduce 2%
+19/01/29 21:31:24 INFO mapreduce.Job:  map 48% reduce 2%
+19/01/29 21:31:42 INFO mapreduce.Job:  map 49% reduce 2%
+19/01/29 21:31:48 INFO mapreduce.Job:  map 51% reduce 2%
+19/01/29 21:33:39 INFO mapreduce.Job:  map 52% reduce 2%
+19/01/29 21:33:54 INFO mapreduce.Job:  map 53% reduce 2%
+19/01/29 21:34:04 INFO mapreduce.Job:  map 55% reduce 2%
+19/01/29 21:35:56 INFO mapreduce.Job:  map 56% reduce 2%
+19/01/29 21:36:10 INFO mapreduce.Job:  map 57% reduce 2%
+19/01/29 21:36:20 INFO mapreduce.Job:  map 58% reduce 2%
+19/01/29 21:36:23 INFO mapreduce.Job:  map 59% reduce 2%
+19/01/29 21:38:17 INFO mapreduce.Job:  map 60% reduce 2%
+19/01/29 21:38:30 INFO mapreduce.Job:  map 61% reduce 2%
+19/01/29 21:38:40 INFO mapreduce.Job:  map 62% reduce 2%
+19/01/29 21:38:44 INFO mapreduce.Job:  map 63% reduce 2%
+19/01/29 21:40:34 INFO mapreduce.Job:  map 64% reduce 2%
+19/01/29 21:40:46 INFO mapreduce.Job:  map 65% reduce 2%
+19/01/29 21:40:57 INFO mapreduce.Job:  map 66% reduce 2%
+19/01/29 21:41:01 INFO mapreduce.Job:  map 67% reduce 2%
+19/01/29 21:42:49 INFO mapreduce.Job:  map 68% reduce 2%
+19/01/29 21:42:55 INFO mapreduce.Job:  map 68% reduce 3%
+19/01/29 21:43:02 INFO mapreduce.Job:  map 69% reduce 3%
